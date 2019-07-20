@@ -1,0 +1,905 @@
+agent,bytes,clientip,extension,geo.coordinates,geo.dest,geo.src,geo.srcdest,hour_of_day,ip,machine.os,machine.ram,memory,message,phpmemory,referer,request,response,url,utc_time
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,251,160.189.170.26,,"{
+  ""lat"": 44.98730556,
+  ""lon"": -99.9535
+}",CN,VN,VN:CN,16,160.189.170.26,win 8,"18,253,611,008",,"160.189.170.26 - - [2018-08-04T16:15:39.567Z] ""GET /security-analytics HTTP/1.1"" 200 251 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/oleg-atkov,/security-analytics,200,https://www.elastic.co/solutions/security-analytics,"August 4th 2018, 16:15:39.567"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"6,727",167.228.227.54,,"{
+  ""lat"": 35.36671583,
+  ""lon"": -104.1880314
+}",TW,CN,CN:TW,16,167.228.227.54,win 7,"3,221,225,472",,"167.228.227.54 - - [2018-08-04T16:15:27.893Z] ""GET /elasticsearch HTTP/1.1"" 200 6727 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/success/william-pailes,/elasticsearch,200,https://www.elastic.co/downloads/elasticsearch,"August 4th 2018, 16:15:27.893"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),0,166.168.152.39,,"{
+  ""lat"": 33.17794778,
+  ""lon"": -96.5905275
+}",SO,GH,GH:SO,16,166.168.152.39,osx,"3,221,225,472",,"166.168.152.39 - - [2018-08-04T16:11:47.086Z] ""GET /beats HTTP/1.1"" 503 0 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://nytimes.com/success/philip-k-chapman,/beats,503,https://www.elastic.co/downloads/beats,"August 4th 2018, 16:11:47.086"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"1,727",174.98.40.39,deb,"{
+  ""lat"": 34.93891389,
+  ""lon"": -110.1395656
+}",IN,EC,EC:IN,16,174.98.40.39,win 7,"13,958,643,712",,"174.98.40.39 - - [2018-08-04T16:09:05.596Z] ""GET /beats/metricbeat/metricbeat-6.3.2-amd64.deb HTTP/1.1"" 200 1727 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://twitter.com/success/georgi-ivanov,/beats/metricbeat/metricbeat-6.3.2-amd64.deb,200,https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-amd64.deb,"August 4th 2018, 16:09:05.596"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"3,063",65.240.119.220,,"{
+  ""lat"": 18.49486111,
+  ""lon"": -67.12944444
+}",LR,US,US:LR,16,65.240.119.220,win 7,"20,401,094,656",,"65.240.119.220 - - [2018-08-04T16:05:33.150Z] ""GET /elasticsearch HTTP/1.1"" 200 3063 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/error/stephen-oswald,/elasticsearch,200,https://www.elastic.co/downloads/elasticsearch,"August 4th 2018, 16:05:33.150"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"3,795",131.73.207.137,,"{
+  ""lat"": 38.92409111,
+  ""lon"": -117.9590072
+}",TW,CN,CN:TW,16,131.73.207.137,win 8,"21,474,836,480",,"131.73.207.137 - - [2018-08-04T16:04:13.858Z] ""GET /beats/filebeat HTTP/1.1"" 200 3795 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/success/daniel-bursch,/beats/filebeat,200,https://www.elastic.co/downloads/beats/filebeat,"August 4th 2018, 16:04:13.858"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"5,591",115.221.110.43,,"{
+  ""lat"": 20.26525583,
+  ""lon"": -155.8599875
+}",ID,CN,CN:ID,15,115.221.110.43,ios,"16,106,127,360",,"115.221.110.43 - - [2018-08-04T15:53:51.639Z] ""GET /beats/filebeat HTTP/1.1"" 200 5591 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://facebook.com/success/thomas-akers,/beats/filebeat,200,https://www.elastic.co/downloads/beats/filebeat,"August 4th 2018, 15:53:51.639"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","11,514",235.17.226.19,gz,"{
+  ""lat"": 14.21577583,
+  ""lon"": -169.4239058
+}",IN,SD,SD:IN,15,235.17.226.19,ios,"4,294,967,296",,"235.17.226.19 - - [2018-08-04T15:47:05.071Z] ""GET /elasticsearch/elasticsearch-6.3.2.tar.gz HTTP/1.1"" 200 11514 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/donald-williams,/elasticsearch/elasticsearch-6.3.2.tar.gz,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.tar.gz,"August 4th 2018, 15:47:05.071"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","3,729",221.159.96.142,gz,"{
+  ""lat"": 40.47798556,
+  ""lon"": -88.91595278
+}",ID,UG,UG:ID,15,221.159.96.142,ios,"3,221,225,472",,"221.159.96.142 - - [2018-08-04T15:45:14.336Z] ""GET /kibana/kibana-6.3.2-linux-x86_64.tar.gz HTTP/1.1"" 200 3729 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/steven-maclean,/kibana/kibana-6.3.2-linux-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-linux-x86_64.tar.gz,"August 4th 2018, 15:45:14.336"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"8,705",161.161.176.37,,"{
+  ""lat"": 60.53337639,
+  ""lon"": -165.1139636
+}",PK,VN,VN:PK,15,161.161.176.37,win xp,"32,212,254,720","348,200","161.161.176.37 - - [2018-08-04T15:40:49.432Z] ""GET /people/type:astronauts/name:michael-foale/profile HTTP/1.1"" 200 8705 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""","348,200",http://facebook.com/error/john-casper,/people/type:astronauts/name:michael-foale/profile,200,https://elastic-elastic-elastic.org/people/type:astronauts/name:michael-foale/profile,"August 4th 2018, 15:40:49.432"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","7,363",79.156.49.129,deb,"{
+  ""lat"": 39.57012833,
+  ""lon"": -104.8492942
+}",AU,IN,IN:AU,15,79.156.49.129,win 7,"15,032,385,536",,"79.156.49.129 - - [2018-08-04T15:27:09.250Z] ""GET /beats/metricbeat/metricbeat-6.3.2-amd64.deb HTTP/1.1"" 200 7363 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/john-fabian,/beats/metricbeat/metricbeat-6.3.2-amd64.deb,200,https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-amd64.deb,"August 4th 2018, 15:27:09.250"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),0,118.64.135.167,,"{
+  ""lat"": 33.64886139,
+  ""lon"": -105.895685
+}",US,NI,NI:US,15,118.64.135.167,ios,"11,811,160,064",,"118.64.135.167 - - [2018-08-04T15:26:26.538Z] ""GET /beats/metricbeat HTTP/1.1"" 503 0 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://nytimes.com/success/rusty-schweickart,/beats/metricbeat,503,https://www.elastic.co/downloads/beats/metricbeat,"August 4th 2018, 15:26:26.538"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"5,522",27.243.169.69,zip,"{
+  ""lat"": 63.10577694,
+  ""lon"": -154.7189806
+}",DZ,CN,CN:DZ,15,27.243.169.69,win xp,"20,401,094,656",,"27.243.169.69 - - [2018-08-04T15:20:25.743Z] ""GET /kibana/kibana-6.3.2-windows-x86_64.zip HTTP/1.1"" 200 5522 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://nytimes.com/warning/steven-lindsey,/kibana/kibana-6.3.2-windows-x86_64.zip,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-windows-x86_64.zip,"August 4th 2018, 15:20:25.743"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24",54,162.79.34.12,,"{
+  ""lat"": 51.87796389,
+  ""lon"": -176.6460306
+}",PH,IN,IN:PH,15,162.79.34.12,win 8,"10,737,418,240",,"162.79.34.12 - - [2018-08-04T15:16:29.658Z] ""GET /enterprise-search HTTP/1.1"" 200 54 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://facebook.com/success/leroy-chiao,/enterprise-search,200,https://www.elastic.co/solutions/enterprise-search,"August 4th 2018, 15:16:29.658"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","4,119",125.68.54.153,,"{
+  ""lat"": 20.96293639,
+  ""lon"": -156.6730317
+}",NG,US,US:NG,15,125.68.54.153,win xp,"32,212,254,720",,"125.68.54.153 - - [2018-08-04T15:03:00.821Z] ""GET /apm HTTP/1.1"" 200 4119 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/warning/stephen-robinson,/apm,200,https://www.elastic.co/downloads/apm,"August 4th 2018, 15:03:00.821"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","2,369",77.17.155.213,zip,"{
+  ""lat"": 36.32697806,
+  ""lon"": -104.6197117
+}",ID,BI,BI:ID,14,77.17.155.213,win 8,"2,147,483,648",,"77.17.155.213 - - [2018-08-04T14:54:39.070Z] ""GET /apm-server/apm-server-6.3.2-windows-x86.zip HTTP/1.1"" 200 2369 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/success/apollo-12,/apm-server/apm-server-6.3.2-windows-x86.zip,200,https://artifacts.elastic.co/downloads/apm-server/apm-server-6.3.2-windows-x86.zip,"August 4th 2018, 14:54:39.070"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"2,073",45.91.116.169,,"{
+  ""lat"": 44.54165056,
+  ""lon"": -99.44622306
+}",JP,TT,TT:JP,14,45.91.116.169,ios,"32,212,254,720",,"45.91.116.169 - - [2018-08-04T14:45:35.557Z] ""GET /elasticsearch HTTP/1.1"" 200 2073 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://facebook.com/success/kenneth-ham,/elasticsearch,200,https://www.elastic.co/downloads/elasticsearch,"August 4th 2018, 14:45:35.557"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","8,124",240.82.212.120,zip,"{
+  ""lat"": 41.47271639,
+  ""lon"": -85.26080833
+}",BF,UG,UG:BF,14,240.82.212.120,win 7,"18,253,611,008",,"240.82.212.120 - - [2018-08-04T14:36:32.973Z] ""GET /elasticsearch/elasticsearch-6.3.2.zip HTTP/1.1"" 200 8124 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/michael-fincke,/elasticsearch/elasticsearch-6.3.2.zip,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.zip,"August 4th 2018, 14:36:32.973"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"4,850",210.44.198.207,,"{
+  ""lat"": 34.58981806,
+  ""lon"": -88.64699861
+}",US,US,US:US,14,210.44.198.207,ios,"8,589,934,592","194,000","210.44.198.207 - - [2018-08-04T14:36:23.366Z] ""GET /people/type:astronauts/name:john-l-finley/profile HTTP/1.1"" 200 4850 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""","194,000",http://twitter.com/warning/ellen-ochoa,/people/type:astronauts/name:john-l-finley/profile,200,https://elastic-elastic-elastic.org/people/type:astronauts/name:john-l-finley/profile,"August 4th 2018, 14:36:23.366"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"2,438",162.19.100.29,css,"{
+  ""lat"": 32.22436111,
+  ""lon"": -80.69747222
+}",CN,DE,DE:CN,14,162.19.100.29,win xp,"7,516,192,768",,"162.19.100.29 - - [2018-08-04T14:22:19.259Z] ""GET /styles/ads.css HTTP/1.1"" 200 2438 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/sergei-revin,/styles/ads.css,200,https://cdn.elastic-elastic-elastic.org/styles/ads.css,"August 4th 2018, 14:22:19.259"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","9,554",158.64.134.248,zip,"{
+  ""lat"": 31.05126306,
+  ""lon"": -87.06796833
+}",VN,CN,CN:VN,14,158.64.134.248,ios,"5,368,709,120",,"158.64.134.248 - - [2018-08-04T14:20:28.241Z] ""GET /elasticsearch/elasticsearch-6.3.2.zip HTTP/1.1"" 404 9554 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/success/patrick-forrester,/elasticsearch/elasticsearch-6.3.2.zip,404,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.zip,"August 4th 2018, 14:20:28.241"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"2,151",20.85.48.159,deb,"{
+  ""lat"": 17.74719528,
+  ""lon"": -64.70486444
+}",US,US,US:US,14,20.85.48.159,win 8,"18,253,611,008",,"20.85.48.159 - - [2018-08-04T14:18:16.959Z] ""GET /elasticsearch/elasticsearch-6.3.2.deb HTTP/1.1"" 200 2151 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/error/gerald-p-carr,/elasticsearch/elasticsearch-6.3.2.deb,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.deb,"August 4th 2018, 14:18:16.959"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","18,925",113.38.230.36,,"{
+  ""lat"": 43.36824528,
+  ""lon"": -103.3881378
+}",MA,MX,MX:MA,14,113.38.230.36,win 8,"11,811,160,064",,"113.38.230.36 - - [2018-08-04T14:17:27.825Z] ""GET /beats HTTP/1.1"" 200 18925 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/error/samantha-cristoforetti,/beats,200,https://www.elastic.co/downloads/beats,"August 4th 2018, 14:17:27.825"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"8,744",189.151.193.226,,"{
+  ""lat"": 40.85299,
+  ""lon"": -85.45941917
+}",NG,CN,CN:NG,14,189.151.193.226,win xp,"8,589,934,592",,"189.151.193.226 - - [2018-08-04T14:13:15.705Z] ""GET /enterprise HTTP/1.1"" 200 8744 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/success/vladislav-volkov,/enterprise,200,https://www.elastic.co/downloads/enterprise,"August 4th 2018, 14:13:15.705"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),244,247.126.133.102,,"{
+  ""lat"": 38.23071,
+  ""lon"": -112.6753497
+}",IN,SV,SV:IN,14,247.126.133.102,win xp,"12,884,901,888",,"247.126.133.102 - - [2018-08-04T14:06:27.880Z] ""GET /metrics HTTP/1.1"" 200 244 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/success/pavel-belyayev,/metrics,200,https://www.elastic.co/solutions/metrics,"August 4th 2018, 14:06:27.880"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"6,688",41.24.121.113,css,"{
+  ""lat"": 30.55840556,
+  ""lon"": -92.099375
+}",CN,IN,IN:CN,13,41.24.121.113,ios,"6,442,450,944",,"41.24.121.113 - - [2018-08-04T13:58:12.777Z] ""GET /styles/pretty-layout.css HTTP/1.1"" 200 6688 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/stephen-robinson,/styles/pretty-layout.css,200,https://cdn.elastic-elastic-elastic.org/styles/pretty-layout.css,"August 4th 2018, 13:58:12.777"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"1,647",206.192.169.175,,"{
+  ""lat"": 30.30105583,
+  ""lon"": -83.02318778
+}",IN,CS,CS:IN,13,206.192.169.175,win 8,"20,401,094,656",,"206.192.169.175 - - [2018-08-04T13:48:05.480Z] ""GET /beats/filebeat HTTP/1.1"" 200 1647 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/success/brent-w-jett-jr-,/beats/filebeat,200,https://www.elastic.co/downloads/beats/filebeat,"August 4th 2018, 13:48:05.480"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","1,667",215.67.92.140,,"{
+  ""lat"": 41.29028694,
+  ""lon"": -98.99064278
+}",IN,VN,VN:IN,13,215.67.92.140,osx,"8,589,934,592",,"215.67.92.140 - - [2018-08-04T13:47:08.551Z] ""GET /beats/metricbeat HTTP/1.1"" 200 1667 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/georgi-ivanov,/beats/metricbeat,200,https://www.elastic.co/downloads/beats/metricbeat,"August 4th 2018, 13:47:08.551"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"2,575",20.126.170.212,gz,"{
+  ""lat"": 44.22164528,
+  ""lon"": -93.91874333
+}",MX,ZM,ZM:MX,13,20.126.170.212,win 7,"3,221,225,472",,"20.126.170.212 - - [2018-08-04T13:46:35.768Z] ""GET /elasticsearch/elasticsearch-6.3.2.tar.gz HTTP/1.1"" 200 2575 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/tracy-caldwell-dyson,/elasticsearch/elasticsearch-6.3.2.tar.gz,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.tar.gz,"August 4th 2018, 13:46:35.768"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"5,034",15.173.52.16,deb,"{
+  ""lat"": 43.77483333,
+  ""lon"": -98.03861111
+}",GB,CN,CN:GB,13,15.173.52.16,osx,"21,474,836,480",,"15.173.52.16 - - [2018-08-04T13:43:27.376Z] ""GET /beats/metricbeat/metricbeat-6.3.2-amd64.deb HTTP/1.1"" 200 5034 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://twitter.com/success/richard-r-arnold,/beats/metricbeat/metricbeat-6.3.2-amd64.deb,200,https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-amd64.deb,"August 4th 2018, 13:43:27.376"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","4,518",56.71.84.172,,"{
+  ""lat"": 46.34663556,
+  ""lon"": -98.28371
+}",IR,BD,BD:IR,13,56.71.84.172,win xp,"5,368,709,120",,"56.71.84.172 - - [2018-08-04T13:43:16.203Z] ""GET /beats/filebeat HTTP/1.1"" 200 4518 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/success/dale-gardner,/beats/filebeat,200,https://www.elastic.co/downloads/beats/filebeat,"August 4th 2018, 13:43:16.203"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"8,421",71.177.163.94,gz,"{
+  ""lat"": 37.70097028,
+  ""lon"": -113.098575
+}",MM,IN,IN:MM,13,71.177.163.94,win 8,"17,179,869,184",,"71.177.163.94 - - [2018-08-04T13:43:06.650Z] ""GET /kibana/kibana-6.3.2-linux-x86_64.tar.gz HTTP/1.1"" 200 8421 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/success/jerry-linenger,/kibana/kibana-6.3.2-linux-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-linux-x86_64.tar.gz,"August 4th 2018, 13:43:06.650"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","6,119",90.44.97.144,,"{
+  ""lat"": 42.54260361,
+  ""lon"": -113.7715442
+}",TJ,IN,IN:TJ,13,90.44.97.144,osx,"20,401,094,656",,"90.44.97.144 - - [2018-08-04T13:42:24.868Z] ""GET /beats/metricbeat HTTP/1.1"" 200 6119 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/roy-bridges,/beats/metricbeat,200,https://www.elastic.co/downloads/beats/metricbeat,"August 4th 2018, 13:42:24.868"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","4,888",96.239.18.242,deb,"{
+  ""lat"": 40.07878611,
+  ""lon"": -95.59199167
+}",BD,IN,IN:BD,13,96.239.18.242,ios,"12,884,901,888",,"96.239.18.242 - - [2018-08-04T13:37:57.127Z] ""GET /elasticsearch/elasticsearch-6.3.2.deb HTTP/1.1"" 404 4888 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/success/william-s-mcarthur,/elasticsearch/elasticsearch-6.3.2.deb,404,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.deb,"August 4th 2018, 13:37:57.127"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,828,7.210.210.41,,"{
+  ""lat"": 42.050075,
+  ""lon"": -90.73880472
+}",US,CN,CN:US,13,7.210.210.41,win 8,"19,327,352,832","33,120","7.210.210.41 - - [2018-08-04T13:36:52.746Z] ""GET /people/type:astronauts/name:oleg-kotov/profile HTTP/1.1"" 200 828 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""","33,120",http://facebook.com/success/vyacheslav-zudov,/people/type:astronauts/name:oleg-kotov/profile,200,https://elastic-elastic-elastic.org/people/type:astronauts/name:oleg-kotov/profile,"August 4th 2018, 13:36:52.746"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"5,724",129.11.135.241,deb,"{
+  ""lat"": 60.33534556,
+  ""lon"": -162.6670094
+}",UA,FR,FR:UA,13,129.11.135.241,win 8,"32,212,254,720",,"129.11.135.241 - - [2018-08-04T13:35:21.442Z] ""GET /apm-server/apm-server-6.3.2-amd64.deb HTTP/1.1"" 200 5724 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/joseph-a-walker,/apm-server/apm-server-6.3.2-amd64.deb,200,https://artifacts.elastic.co/downloads/apm-server/apm-server-6.3.2-amd64.deb,"August 4th 2018, 13:35:21.442"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"14,186",73.157.252.11,deb,"{
+  ""lat"": 42.73147222,
+  ""lon"": -95.55613889
+}",IN,UZ,UZ:IN,13,73.157.252.11,osx,"21,474,836,480",,"73.157.252.11 - - [2018-08-04T13:29:44.897Z] ""GET /elasticsearch/elasticsearch-6.3.2.deb HTTP/1.1"" 200 14186 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/ronald-a-parise,/elasticsearch/elasticsearch-6.3.2.deb,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.deb,"August 4th 2018, 13:29:44.897"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","6,593",70.141.48.11,deb,"{
+  ""lat"": 33.97047222,
+  ""lon"": -80.99525
+}",ZA,ID,ID:ZA,13,70.141.48.11,osx,"3,221,225,472",,"70.141.48.11 - - [2018-08-04T13:28:56.697Z] ""GET /beats/metricbeat/metricbeat-6.3.2-amd64.deb HTTP/1.1"" 200 6593 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/julie-payette,/beats/metricbeat/metricbeat-6.3.2-amd64.deb,200,https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-amd64.deb,"August 4th 2018, 13:28:56.697"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"9,020",69.141.33.21,deb,"{
+  ""lat"": 40.7952425,
+  ""lon"": -73.10021194
+}",CN,CN,CN:CN,13,69.141.33.21,win xp,"11,811,160,064",,"69.141.33.21 - - [2018-08-04T13:28:50.243Z] ""GET /elasticsearch/elasticsearch-6.3.2.deb HTTP/1.1"" 200 9020 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/jean-jacques-favier,/elasticsearch/elasticsearch-6.3.2.deb,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.deb,"August 4th 2018, 13:28:50.243"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"3,692",134.157.177.139,gz,"{
+  ""lat"": 33.30515528,
+  ""lon"": -81.10898917
+}",IN,CN,CN:IN,13,134.157.177.139,osx,"19,327,352,832",,"134.157.177.139 - - [2018-08-04T13:22:00.238Z] ""GET /kibana/kibana-6.3.2-linux-x86_64.tar.gz HTTP/1.1"" 200 3692 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://facebook.com/success/nikolay-rukavishnikov,/kibana/kibana-6.3.2-linux-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-linux-x86_64.tar.gz,"August 4th 2018, 13:22:00.238"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","7,420",32.199.56.36,gz,"{
+  ""lat"": 42.89839944,
+  ""lon"": -72.27078111
+}",CN,IN,IN:CN,13,32.199.56.36,win 8,"5,368,709,120",,"32.199.56.36 - - [2018-08-04T13:19:59.886Z] ""GET /beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz HTTP/1.1"" 200 7420 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://facebook.com/success/donald-peterson,/beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz,"August 4th 2018, 13:19:59.886"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"1,504",246.104.241.253,,"{
+  ""lat"": 40.73210556,
+  ""lon"": -92.42826889
+}",CN,CN,CN:CN,13,246.104.241.253,win xp,"18,253,611,008",,"246.104.241.253 - - [2018-08-04T13:18:45.603Z] ""GET /elasticsearch HTTP/1.1"" 200 1504 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://twitter.com/success/loren-shriver,/elasticsearch,200,https://www.elastic.co/downloads/elasticsearch,"August 4th 2018, 13:18:45.603"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","4,910",203.9.7.202,,"{
+  ""lat"": 58.35496194,
+  ""lon"": -134.5762764
+}",TR,CZ,CZ:TR,13,203.9.7.202,win 8,"10,737,418,240",,"203.9.7.202 - - [2018-08-04T13:16:43.745Z] ""GET / HTTP/1.1"" 200 4910 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/success/sandra-magnus,/,200,https://www.elastic.co/downloads,"August 4th 2018, 13:16:43.745"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","3,331",249.69.222.185,zip,"{
+  ""lat"": 40.56943056,
+  ""lon"": -102.2726875
+}",IN,CN,CN:IN,13,249.69.222.185,win 8,"11,811,160,064",,"249.69.222.185 - - [2018-08-04T13:12:52.982Z] ""GET /apm-server/apm-server-6.3.2-windows-x86.zip HTTP/1.1"" 200 3331 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/ernst-messerschmid,/apm-server/apm-server-6.3.2-windows-x86.zip,200,https://artifacts.elastic.co/downloads/apm-server/apm-server-6.3.2-windows-x86.zip,"August 4th 2018, 13:12:52.982"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"1,541",27.125.25.29,,"{
+  ""lat"": 66.91528667,
+  ""lon"": -151.5280556
+}",DE,CN,CN:DE,13,27.125.25.29,ios,"17,179,869,184",,"27.125.25.29 - - [2018-08-04T13:09:58.195Z] ""GET /beats HTTP/1.1"" 200 1541 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/mary-l-cleave,/beats,200,https://www.elastic.co/downloads/beats,"August 4th 2018, 13:09:58.195"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"5,212",129.138.185.193,zip,"{
+  ""lat"": 42.77801778,
+  ""lon"": -96.19368944
+}",RU,ET,ET:RU,13,129.138.185.193,osx,"19,327,352,832",,"129.138.185.193 - - [2018-08-04T13:07:43.872Z] ""GET /elasticsearch/elasticsearch-6.3.2.zip HTTP/1.1"" 200 5212 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/karol-bobko,/elasticsearch/elasticsearch-6.3.2.zip,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.zip,"August 4th 2018, 13:07:43.872"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),0,42.120.244.47,,"{
+  ""lat"": 48.28384528,
+  ""lon"": -115.4902453
+}",IN,SY,SY:IN,13,42.120.244.47,ios,"8,589,934,592",,"42.120.244.47 - - [2018-08-04T13:05:33.633Z] ""GET /elasticsearch HTTP/1.1"" 503 0 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/luca-parmitano,/elasticsearch,503,https://www.elastic.co/downloads/elasticsearch,"August 4th 2018, 13:05:33.633"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","3,907",246.104.241.253,gz,"{
+  ""lat"": 34.19592833,
+  ""lon"": -96.67555694
+}",PH,CN,CN:PH,13,246.104.241.253,win 8,"21,474,836,480",,"246.104.241.253 - - [2018-08-04T13:05:00.799Z] ""GET /beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz HTTP/1.1"" 200 3907 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/warning/jeremy-hansen,/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,200,https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,"August 4th 2018, 13:05:00.799"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"6,803",15.173.52.16,gz,"{
+  ""lat"": 46.99016361,
+  ""lon"": -94.20400222
+}",ET,IN,IN:ET,13,15.173.52.16,win 7,"21,474,836,480",,"15.173.52.16 - - [2018-08-04T13:04:41.784Z] ""GET /kibana/kibana-6.3.2-darwin-x86_64.tar.gz HTTP/1.1"" 200 6803 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/ronald-sega,/kibana/kibana-6.3.2-darwin-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-darwin-x86_64.tar.gz,"August 4th 2018, 13:04:41.784"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","5,900",45.138.21.203,css,"{
+  ""lat"": 37.00888889,
+  ""lon"": -85.10277778
+}",CN,CO,CO:CN,13,45.138.21.203,osx,"11,811,160,064",,"45.138.21.203 - - [2018-08-04T13:03:51.559Z] ""GET /styles/ads.css HTTP/1.1"" 200 5900 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://facebook.com/success/richard-mullane,/styles/ads.css,200,https://cdn.elastic-elastic-elastic.org/styles/ads.css,"August 4th 2018, 13:03:51.559"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","5,847",103.201.131.77,zip,"{
+  ""lat"": 62.64858333,
+  ""lon"": -160.1898889
+}",MX,CO,CO:MX,12,103.201.131.77,osx,"21,474,836,480",,"103.201.131.77 - - [2018-08-04T12:58:42.516Z] ""GET /kibana/kibana-6.3.2-windows-x86_64.zip HTTP/1.1"" 200 5847 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/success/claudie-haigner-,/kibana/kibana-6.3.2-windows-x86_64.zip,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-windows-x86_64.zip,"August 4th 2018, 12:58:42.516"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"2,357",220.218.116.96,rpm,"{
+  ""lat"": 30.75016667,
+  ""lon"": -92.68847222
+}",CO,VN,VN:CO,12,220.218.116.96,ios,"9,663,676,416",,"220.218.116.96 - - [2018-08-04T12:56:01.706Z] ""GET /beats/metricbeat/metricbeat-6.3.2-i686.rpm HTTP/1.1"" 200 2357 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/mercury-redstone-3,/beats/metricbeat/metricbeat-6.3.2-i686.rpm,200,https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-i686.rpm,"August 4th 2018, 12:56:01.706"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"1,519",210.170.134.119,zip,"{
+  ""lat"": 35.922295,
+  ""lon"": -84.68966278
+}",PH,BD,BD:PH,12,210.170.134.119,osx,"20,401,094,656",,"210.170.134.119 - - [2018-08-04T12:53:08.967Z] ""GET /apm-server/apm-server-6.3.2-windows-x86.zip HTTP/1.1"" 200 1519 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/sergei-avdeyev,/apm-server/apm-server-6.3.2-windows-x86.zip,200,https://artifacts.elastic.co/downloads/apm-server/apm-server-6.3.2-windows-x86.zip,"August 4th 2018, 12:53:08.967"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"2,902",105.227.4.182,css,"{
+  ""lat"": 39.00035833,
+  ""lon"": -80.27392778
+}",US,IN,IN:US,12,105.227.4.182,win 7,"21,474,836,480",,"105.227.4.182 - - [2018-08-04T12:46:04.358Z] ""GET /styles/ads.css HTTP/1.1"" 200 2902 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://facebook.com/success/aleksandr-samokutyayev,/styles/ads.css,200,https://cdn.elastic-elastic-elastic.org/styles/ads.css,"August 4th 2018, 12:46:04.358"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"9,382",22.8.152.230,zip,"{
+  ""lat"": 64.55305556,
+  ""lon"": -163.0088889
+}",IN,JP,JP:IN,12,22.8.152.230,osx,"18,253,611,008",,"22.8.152.230 - - [2018-08-04T12:44:38.450Z] ""GET /kibana/kibana-6.3.2-windows-x86_64.zip HTTP/1.1"" 200 9382 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/pavel-vinogradov,/kibana/kibana-6.3.2-windows-x86_64.zip,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-windows-x86_64.zip,"August 4th 2018, 12:44:38.450"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","8,489",139.135.227.66,deb,"{
+  ""lat"": 33.93011222,
+  ""lon"": -89.34285194
+}",RS,IN,IN:RS,12,139.135.227.66,win 8,"32,212,254,720",,"139.135.227.66 - - [2018-08-04T12:42:28.699Z] ""GET /apm-server/apm-server-6.3.2-amd64.deb HTTP/1.1"" 200 8489 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://facebook.com/warning/alexander-viktorenko,/apm-server/apm-server-6.3.2-amd64.deb,200,https://artifacts.elastic.co/downloads/apm-server/apm-server-6.3.2-amd64.deb,"August 4th 2018, 12:42:28.699"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","3,710",138.234.210.146,,"{
+  ""lat"": 63.99454722,
+  ""lon"": -145.7216417
+}",CN,MY,MY:CN,12,138.234.210.146,ios,"18,253,611,008",,"138.234.210.146 - - [2018-08-04T12:41:46.929Z] ""GET /beats/metricbeat HTTP/1.1"" 200 3710 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/success/bjarni-tryggvason,/beats/metricbeat,200,https://www.elastic.co/downloads/beats/metricbeat,"August 4th 2018, 12:41:46.929"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"6,740",27.243.169.69,,"{
+  ""lat"": 31.24905556,
+  ""lon"": -82.39530556
+}",IN,IR,IR:IN,12,27.243.169.69,win 8,"18,253,611,008",,"27.243.169.69 - - [2018-08-04T12:39:11.421Z] ""GET /beats/filebeat HTTP/1.1"" 200 6740 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/ed-givens,/beats/filebeat,200,https://www.elastic.co/downloads/beats/filebeat,"August 4th 2018, 12:39:11.421"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","6,835",106.96.54.101,zip,"{
+  ""lat"": 28.06291667,
+  ""lon"": -81.75330556
+}",IN,FR,FR:IN,12,106.96.54.101,win xp,"20,401,094,656",,"106.96.54.101 - - [2018-08-04T12:35:07.399Z] ""GET /apm-server/apm-server-6.3.2-windows-x86.zip HTTP/1.1"" 200 6835 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://nytimes.com/success/mark-polansky,/apm-server/apm-server-6.3.2-windows-x86.zip,200,https://artifacts.elastic.co/downloads/apm-server/apm-server-6.3.2-windows-x86.zip,"August 4th 2018, 12:35:07.399"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","5,974",30.156.16.163,,"{
+  ""lat"": 43.66499083,
+  ""lon"": -92.933385
+}",MM,US,US:MM,12,30.156.16.163,win xp,"16,106,127,360",,"30.156.16.163 - - [2018-08-04T12:28:45.295Z] ""GET /beats/filebeat HTTP/1.1"" 200 5974 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/sally-ride,/beats/filebeat,200,https://www.elastic.co/downloads/beats/filebeat,"August 4th 2018, 12:28:45.295"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","7,471",116.174.134.165,deb,"{
+  ""lat"": 42.91669444,
+  ""lon"": -97.38594444
+}",CN,IT,IT:CN,12,116.174.134.165,ios,"18,253,611,008",,"116.174.134.165 - - [2018-08-04T12:27:00.418Z] ""GET /apm-server/apm-server-6.3.2-amd64.deb HTTP/1.1"" 200 7471 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/oleg-skripochka,/apm-server/apm-server-6.3.2-amd64.deb,200,https://artifacts.elastic.co/downloads/apm-server/apm-server-6.3.2-amd64.deb,"August 4th 2018, 12:27:00.418"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","5,493",206.192.169.175,css,"{
+  ""lat"": 37.74163111,
+  ""lon"": -92.14073611
+}",PK,IN,IN:PK,12,206.192.169.175,win 7,"2,147,483,648",,"206.192.169.175 - - [2018-08-04T12:24:59.956Z] ""GET /styles/pretty-layout.css HTTP/1.1"" 200 5493 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/error/richard-n-richards,/styles/pretty-layout.css,200,https://cdn.elastic-elastic-elastic.org/styles/pretty-layout.css,"August 4th 2018, 12:24:59.956"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","9,113",208.165.21.144,zip,"{
+  ""lat"": 34.41232833,
+  ""lon"": -91.46634722
+}",MM,CL,CL:MM,12,208.165.21.144,win 7,"15,032,385,536",,"208.165.21.144 - - [2018-08-04T12:24:47.147Z] ""GET /kibana/kibana-6.3.2-windows-x86_64.zip HTTP/1.1"" 200 9113 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/success/zhugderdemidiyn-gurragcha,/kibana/kibana-6.3.2-windows-x86_64.zip,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-windows-x86_64.zip,"August 4th 2018, 12:24:47.147"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"2,252",20.126.170.212,,"{
+  ""lat"": 38.54517861,
+  ""lon"": -89.83518444
+}",PK,MX,MX:PK,12,20.126.170.212,ios,"12,884,901,888",,"20.126.170.212 - - [2018-08-04T12:24:45.429Z] ""GET /elasticsearch HTTP/1.1"" 200 2252 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://nytimes.com/success/kenneth-cockrell,/elasticsearch,200,https://www.elastic.co/downloads/elasticsearch,"August 4th 2018, 12:24:45.429"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","6,366",160.20.100.193,zip,"{
+  ""lat"": 30.68586111,
+  ""lon"": -95.01792778
+}",CN,CN,CN:CN,12,160.20.100.193,osx,"13,958,643,712",,"160.20.100.193 - - [2018-08-04T12:24:38.809Z] ""GET /apm-server/apm-server-6.3.2-windows-x86.zip HTTP/1.1"" 200 6366 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/success/georgi-shonin,/apm-server/apm-server-6.3.2-windows-x86.zip,200,https://artifacts.elastic.co/downloads/apm-server/apm-server-6.3.2-windows-x86.zip,"August 4th 2018, 12:24:38.809"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),922,26.79.15.179,,"{
+  ""lat"": 37.32546833,
+  ""lon"": -79.97542833
+}",IN,EG,EG:IN,12,26.79.15.179,osx,"6,442,450,944",,"26.79.15.179 - - [2018-08-04T12:22:44.754Z] ""GET /enterprise-search HTTP/1.1"" 200 922 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/success/dorothy-m-metcalf-lindenburger,/enterprise-search,200,https://www.elastic.co/solutions/enterprise-search,"August 4th 2018, 12:22:44.754"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"2,910",63.238.199.177,zip,"{
+  ""lat"": 35.54094139,
+  ""lon"": -78.39032944
+}",US,CN,CN:US,12,63.238.199.177,osx,"21,474,836,480",,"63.238.199.177 - - [2018-08-04T12:20:15.768Z] ""GET /kibana/kibana-6.3.2-windows-x86_64.zip HTTP/1.1"" 200 2910 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://twitter.com/success/david-saint-jacques,/kibana/kibana-6.3.2-windows-x86_64.zip,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-windows-x86_64.zip,"August 4th 2018, 12:20:15.768"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"2,710",36.29.26.89,gz,"{
+  ""lat"": 59.11816472,
+  ""lon"": -156.8652169
+}",CS,CN,CN:CS,12,36.29.26.89,win xp,"11,811,160,064",,"36.29.26.89 - - [2018-08-04T12:20:00.953Z] ""GET /beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz HTTP/1.1"" 200 2710 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/error/thomas-pesquet,/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,200,https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,"August 4th 2018, 12:20:00.953"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","8,210",186.181.227.73,zip,"{
+  ""lat"": 40.33305028,
+  ""lon"": -75.12233833
+}",CN,VN,VN:CN,12,186.181.227.73,win 8,"15,032,385,536",,"186.181.227.73 - - [2018-08-04T12:18:38.707Z] ""GET /kibana/kibana-6.3.2-windows-x86_64.zip HTTP/1.1"" 200 8210 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://facebook.com/success/edward-white,/kibana/kibana-6.3.2-windows-x86_64.zip,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-windows-x86_64.zip,"August 4th 2018, 12:18:38.707"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),102,230.216.156.248,,"{
+  ""lat"": 38.59117917,
+  ""lon"": -92.15614389
+}",CN,BR,BR:CN,12,230.216.156.248,ios,"8,589,934,592",,"230.216.156.248 - - [2018-08-04T12:15:26.112Z] ""GET /app-search HTTP/1.1"" 200 102 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/sergei-avdeyev,/app-search,200,https://www.elastic.co/solutions/app-search,"August 4th 2018, 12:15:26.112"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","8,950",207.142.100.247,css,"{
+  ""lat"": 64.54898167,
+  ""lon"": -149.0735053
+}",CN,CN,CN:CN,12,207.142.100.247,ios,"3,221,225,472",,"207.142.100.247 - - [2018-08-04T12:10:21.471Z] ""GET /styles/app.css HTTP/1.1"" 200 8950 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://facebook.com/success/robert-j-cenker,/styles/app.css,200,https://cdn.elastic-elastic-elastic.org/styles/app.css,"August 4th 2018, 12:10:21.471"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"6,772",99.74.118.237,,"{
+  ""lat"": 34.54722222,
+  ""lon"": -89.02416667
+}",US,TH,TH:US,12,99.74.118.237,ios,"4,294,967,296",,"99.74.118.237 - - [2018-08-04T12:10:16.574Z] ""GET /apm HTTP/1.1"" 200 6772 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://facebook.com/warning/roberta-bondar,/apm,200,https://www.elastic.co/downloads/apm,"August 4th 2018, 12:10:16.574"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"2,701",184.19.167.161,,"{
+  ""lat"": 41.29888556,
+  ""lon"": -93.11381556
+}",ZM,BF,BF:ZM,12,184.19.167.161,win 8,"15,032,385,536",,"184.19.167.161 - - [2018-08-04T12:09:07.135Z] ""GET /beats/filebeat HTTP/1.1"" 200 2701 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/michel-tognini,/beats/filebeat,200,https://www.elastic.co/downloads/beats/filebeat,"August 4th 2018, 12:09:07.135"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","9,606",38.222.96.139,gz,"{
+  ""lat"": 44.09483333,
+  ""lon"": -121.2006389
+}",TR,JP,JP:TR,12,38.222.96.139,win 8,"16,106,127,360",,"38.222.96.139 - - [2018-08-04T12:05:45.980Z] ""GET /beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz HTTP/1.1"" 200 9606 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/vladim-r-remek,/beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz,"August 4th 2018, 12:05:45.980"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"16,965",8.106.16.196,rpm,"{
+  ""lat"": 40.30918056,
+  ""lon"": -81.85338194
+}",BR,TR,TR:BR,12,8.106.16.196,win 7,"15,032,385,536",,"8.106.16.196 - - [2018-08-04T12:03:37.962Z] ""GET /beats/metricbeat/metricbeat-6.3.2-i686.rpm HTTP/1.1"" 200 16965 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://nytimes.com/success/yuri-artyukhin,/beats/metricbeat/metricbeat-6.3.2-i686.rpm,200,https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-i686.rpm,"August 4th 2018, 12:03:37.962"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),900,217.23.81.38,,"{
+  ""lat"": 34.75831917,
+  ""lon"": -82.376415
+}",US,PK,PK:US,11,217.23.81.38,win 7,"4,294,967,296",,"217.23.81.38 - - [2018-08-04T11:59:36.483Z] ""GET /metrics HTTP/1.1"" 200 900 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/success/viktor-patsayev,/metrics,200,https://www.elastic.co/solutions/metrics,"August 4th 2018, 11:59:36.483"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"7,505",174.98.40.39,zip,"{
+  ""lat"": 28.42888889,
+  ""lon"": -81.31602778
+}",CN,CN,CN:CN,11,174.98.40.39,win 8,"19,327,352,832",,"174.98.40.39 - - [2018-08-04T11:59:27.458Z] ""GET /apm-server/apm-server-6.3.2-windows-x86.zip HTTP/1.1"" 200 7505 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/scott-kelly,/apm-server/apm-server-6.3.2-windows-x86.zip,200,https://artifacts.elastic.co/downloads/apm-server/apm-server-6.3.2-windows-x86.zip,"August 4th 2018, 11:59:27.458"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"2,283",223.14.108.58,,"{
+  ""lat"": 41.74324028,
+  ""lon"": -76.44457083
+}",MN,US,US:MN,11,223.14.108.58,win 8,"9,663,676,416",,"223.14.108.58 - - [2018-08-04T11:59:02.624Z] ""GET /enterprise HTTP/1.1"" 200 2283 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/robert-lawrence,/enterprise,200,https://www.elastic.co/downloads/enterprise,"August 4th 2018, 11:59:02.624"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","5,921",90.102.127.25,css,"{
+  ""lat"": 40.52034556,
+  ""lon"": -90.65246389
+}",CN,IN,IN:CN,11,90.102.127.25,win 7,"13,958,643,712",,"90.102.127.25 - - [2018-08-04T11:58:30.270Z] ""GET /styles/ad-blocker.css HTTP/1.1"" 200 5921 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/warning/kent-rominger,/styles/ad-blocker.css,200,https://cdn.elastic-elastic-elastic.org/styles/ad-blocker.css,"August 4th 2018, 11:58:30.270"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","7,113",208.157.177.235,css,"{
+  ""lat"": 36.90922083,
+  ""lon"": -94.88750028
+}",SY,CN,CN:SY,11,208.157.177.235,win 7,"16,106,127,360",,"208.157.177.235 - - [2018-08-04T11:57:47.385Z] ""GET /styles/ads.css HTTP/1.1"" 200 7113 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/marcos-pontes,/styles/ads.css,200,https://cdn.elastic-elastic-elastic.org/styles/ads.css,"August 4th 2018, 11:57:47.385"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"3,701",150.246.234.4,gz,"{
+  ""lat"": 44.57537278,
+  ""lon"": -71.17593167
+}",PR,CN,CN:PR,11,150.246.234.4,win 8,"18,253,611,008",,"150.246.234.4 - - [2018-08-04T11:56:35.897Z] ""GET /kibana/kibana-6.3.2-darwin-x86_64.tar.gz HTTP/1.1"" 200 3701 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/albert-sacco,/kibana/kibana-6.3.2-darwin-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-darwin-x86_64.tar.gz,"August 4th 2018, 11:56:35.897"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"8,259",93.114.217.213,gz,"{
+  ""lat"": 45.06198611,
+  ""lon"": -93.3539375
+}",CN,JP,JP:CN,11,93.114.217.213,ios,"19,327,352,832",,"93.114.217.213 - - [2018-08-04T11:55:32.670Z] ""GET /beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz HTTP/1.1"" 200 8259 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/sergei-krikalev,/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,200,https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,"August 4th 2018, 11:55:32.670"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"4,685",155.206.194.40,css,"{
+  ""lat"": 33.54980833,
+  ""lon"": -102.3727333
+}",CN,MY,MY:CN,11,155.206.194.40,win 7,"13,958,643,712",,"155.206.194.40 - - [2018-08-04T11:55:20.575Z] ""GET /styles/pretty-layout.css HTTP/1.1"" 200 4685 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/yuri-lonchakov,/styles/pretty-layout.css,200,https://cdn.elastic-elastic-elastic.org/styles/pretty-layout.css,"August 4th 2018, 11:55:20.575"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24",0,88.26.38.241,,"{
+  ""lat"": 42.18421417,
+  ""lon"": -73.40324056
+}",MX,KR,KR:MX,11,88.26.38.241,win 8,"4,294,967,296",0,"88.26.38.241 - - [2018-08-04T11:55:04.339Z] ""GET /people/type:astronauts/name:clayton-anderson/profile HTTP/1.1"" 503 0 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",0,http://twitter.com/success/michael-baker,/people/type:astronauts/name:clayton-anderson/profile,503,https://elastic-elastic-elastic.org/people/type:astronauts/name:clayton-anderson/profile,"August 4th 2018, 11:55:04.339"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"6,359",132.92.212.196,,"{
+  ""lat"": 45.30477778,
+  ""lon"": -85.27477778
+}",CN,CN,CN:CN,11,132.92.212.196,ios,"32,212,254,720",,"132.92.212.196 - - [2018-08-04T11:54:01.487Z] ""GET /apm HTTP/1.1"" 200 6359 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://twitter.com/success/shannon-walker,/apm,200,https://www.elastic.co/downloads/apm,"August 4th 2018, 11:54:01.487"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"3,404",25.210.185.214,gz,"{
+  ""lat"": 36.17506917,
+  ""lon"": -89.67508
+}",BD,PK,PK:BD,11,25.210.185.214,ios,"19,327,352,832",,"25.210.185.214 - - [2018-08-04T11:53:39.783Z] ""GET /kibana/kibana-6.3.2-darwin-x86_64.tar.gz HTTP/1.1"" 200 3404 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/mikhail-tyurin,/kibana/kibana-6.3.2-darwin-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-darwin-x86_64.tar.gz,"August 4th 2018, 11:53:39.783"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"8,312",112.82.236.207,,"{
+  ""lat"": 39.63885556,
+  ""lon"": -90.77843111
+}",ET,ID,ID:ET,11,112.82.236.207,win 7,"8,589,934,592",,"112.82.236.207 - - [2018-08-04T11:53:26.274Z] ""GET /enterprise HTTP/1.1"" 200 8312 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/christopher-loria,/enterprise,200,https://www.elastic.co/downloads/enterprise,"August 4th 2018, 11:53:26.274"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),913,73.176.17.223,,"{
+  ""lat"": 41.248645,
+  ""lon"": -90.73708361
+}",BR,AU,AU:BR,11,73.176.17.223,ios,"9,663,676,416",,"73.176.17.223 - - [2018-08-04T11:53:17.307Z] ""GET /security-analytics HTTP/1.1"" 200 913 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/warning/michael-foale,/security-analytics,200,https://www.elastic.co/solutions/security-analytics,"August 4th 2018, 11:53:17.307"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"9,204",80.55.27.181,css,"{
+  ""lat"": 42.96550333,
+  ""lon"": -83.74345639
+}",PH,IN,IN:PH,11,80.55.27.181,osx,"4,294,967,296",,"80.55.27.181 - - [2018-08-04T11:47:23.377Z] ""GET /styles/ads.css HTTP/1.1"" 200 9204 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/richard-mullane,/styles/ads.css,200,https://cdn.elastic-elastic-elastic.org/styles/ads.css,"August 4th 2018, 11:47:23.377"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"9,341",240.150.239.160,css,"{
+  ""lat"": 34.45147972,
+  ""lon"": -84.45659278
+}",ET,PK,PK:ET,11,240.150.239.160,osx,"5,368,709,120",,"240.150.239.160 - - [2018-08-04T11:46:23.698Z] ""GET /styles/main.css HTTP/1.1"" 200 9341 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/robert-d-cabana,/styles/main.css,200,https://cdn.elastic-elastic-elastic.org/styles/main.css,"August 4th 2018, 11:46:23.698"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"5,204",121.230.251.72,css,"{
+  ""lat"": 32.43866444,
+  ""lon"": -90.10309222
+}",CN,RO,RO:CN,11,121.230.251.72,ios,"12,884,901,888",,"121.230.251.72 - - [2018-08-04T11:45:08.542Z] ""GET /styles/main.css HTTP/1.1"" 200 5204 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/andrew-j-feustel,/styles/main.css,200,https://cdn.elastic-elastic-elastic.org/styles/main.css,"August 4th 2018, 11:45:08.542"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"9,739",215.67.92.140,,"{
+  ""lat"": 35.00006444,
+  ""lon"": -77.981695
+}",SN,IN,IN:SN,11,215.67.92.140,win 7,"2,147,483,648",,"215.67.92.140 - - [2018-08-04T11:45:01.425Z] ""GET /apm HTTP/1.1"" 200 9739 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://facebook.com/success/michael-s-hopkins,/apm,200,https://www.elastic.co/downloads/apm,"August 4th 2018, 11:45:01.425"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"5,203",35.125.203.87,zip,"{
+  ""lat"": 44.02914056,
+  ""lon"": -97.53784778
+}",CN,LK,LK:CN,11,35.125.203.87,win 7,"15,032,385,536",,"35.125.203.87 - - [2018-08-04T11:44:47.106Z] ""GET /elasticsearch/elasticsearch-6.3.2.zip HTTP/1.1"" 200 5203 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://facebook.com/warning/rakesh-sharma,/elasticsearch/elasticsearch-6.3.2.zip,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.zip,"August 4th 2018, 11:44:47.106"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"7,596",27.243.169.69,gz,"{
+  ""lat"": 55.31502778,
+  ""lon"": -160.5176944
+}",BD,TW,TW:BD,11,27.243.169.69,win xp,"12,884,901,888",,"27.243.169.69 - - [2018-08-04T11:39:43.633Z] ""GET /kibana/kibana-6.3.2-darwin-x86_64.tar.gz HTTP/1.1"" 200 7596 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://nytimes.com/success/liu-yang,/kibana/kibana-6.3.2-darwin-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-darwin-x86_64.tar.gz,"August 4th 2018, 11:39:43.633"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"9,964",158.238.118.139,deb,"{
+  ""lat"": 46.37449806,
+  ""lon"": -117.0153944
+}",CN,NG,NG:CN,11,158.238.118.139,ios,"10,737,418,240",,"158.238.118.139 - - [2018-08-04T11:38:48.187Z] ""GET /beats/metricbeat/metricbeat-6.3.2-amd64.deb HTTP/1.1"" 200 9964 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://twitter.com/success/oleg-kotov,/beats/metricbeat/metricbeat-6.3.2-amd64.deb,200,https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-amd64.deb,"August 4th 2018, 11:38:48.187"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"2,108",130.194.187.55,,"{
+  ""lat"": 43.16948806,
+  ""lon"": -86.23822306
+}",SE,IN,IN:SE,11,130.194.187.55,win 7,"2,147,483,648",,"130.194.187.55 - - [2018-08-04T11:31:45.878Z] ""GET / HTTP/1.1"" 200 2108 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://twitter.com/success/steven-maclean,/,200,https://www.elastic.co/downloads,"August 4th 2018, 11:31:45.878"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"4,395",100.213.239.180,,"{
+  ""lat"": 40.11611111,
+  ""lon"": -96.19445278
+}",FR,US,US:FR,11,100.213.239.180,ios,"15,032,385,536",,"100.213.239.180 - - [2018-08-04T11:26:52.154Z] ""GET /beats/filebeat HTTP/1.1"" 200 4395 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/kenneth-ham,/beats/filebeat,200,https://www.elastic.co/downloads/beats/filebeat,"August 4th 2018, 11:26:52.154"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"2,749",71.93.48.205,css,"{
+  ""lat"": 35.75703083,
+  ""lon"": -94.64994417
+}",NG,IN,IN:NG,11,71.93.48.205,osx,"13,958,643,712",,"71.93.48.205 - - [2018-08-04T11:25:22.397Z] ""GET /styles/ads.css HTTP/1.1"" 200 2749 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/success/edward-lu,/styles/ads.css,200,https://cdn.elastic-elastic-elastic.org/styles/ads.css,"August 4th 2018, 11:25:22.397"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,819,230.180.158.215,,"{
+  ""lat"": 38.81809306,
+  ""lon"": -92.21962917
+}",ID,CN,CN:ID,11,230.180.158.215,win xp,"12,884,901,888",,"230.180.158.215 - - [2018-08-04T11:23:11.764Z] ""GET /business-analytics HTTP/1.1"" 200 819 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/warning/byron-lichtenberg,/business-analytics,200,https://www.elastic.co/solutions/business-analytics,"August 4th 2018, 11:23:11.764"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"13,389",44.146.84.219,,"{
+  ""lat"": 36.19299083,
+  ""lon"": -82.81507028
+}",IN,NE,NE:IN,11,44.146.84.219,win 8,"9,663,676,416",,"44.146.84.219 - - [2018-08-04T11:17:14.717Z] ""GET / HTTP/1.1"" 200 13389 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/steven-r-nagel,/,200,https://www.elastic.co/downloads,"August 4th 2018, 11:17:14.717"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"6,064",81.32.253.92,css,"{
+  ""lat"": 46.21830472,
+  ""lon"": -100.2450028
+}",RU,DE,DE:RU,11,81.32.253.92,win 7,"15,032,385,536",,"81.32.253.92 - - [2018-08-04T11:15:18.199Z] ""GET /styles/ads.css HTTP/1.1"" 200 6064 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/yuri-lonchakov,/styles/ads.css,200,https://cdn.elastic-elastic-elastic.org/styles/ads.css,"August 4th 2018, 11:15:18.199"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,195,9.92.255.88,,"{
+  ""lat"": 36.33457556,
+  ""lon"": -84.16234472
+}",PK,PK,PK:PK,11,9.92.255.88,win xp,"15,032,385,536",,"9.92.255.88 - - [2018-08-04T11:15:16.611Z] ""GET / HTTP/1.1"" 200 195 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://facebook.com/success/zhugderdemidiyn-gurragcha,/,200,https://www.elastic.co/products,"August 4th 2018, 11:15:16.611"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"2,424",221.159.96.142,gz,"{
+  ""lat"": 37.64995889,
+  ""lon"": -97.43304583
+}",US,EG,EG:US,11,221.159.96.142,ios,"3,221,225,472",,"221.159.96.142 - - [2018-08-04T11:15:07.077Z] ""GET /elasticsearch/elasticsearch-6.3.2.tar.gz HTTP/1.1"" 200 2424 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/michael-p-anderson,/elasticsearch/elasticsearch-6.3.2.tar.gz,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.tar.gz,"August 4th 2018, 11:15:07.077"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","2,880",143.166.195.82,,"{
+  ""lat"": 37.78746444,
+  ""lon"": -114.4216567
+}",ID,TR,TR:ID,11,143.166.195.82,osx,"4,294,967,296","115,200","143.166.195.82 - - [2018-08-04T11:12:57.566Z] ""GET /people/type:astronauts/name:jeffrey-williams/profile HTTP/1.1"" 200 2880 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""","115,200",http://twitter.com/success/richard-o-covey,/people/type:astronauts/name:jeffrey-williams/profile,200,https://elastic-elastic-elastic.org/people/type:astronauts/name:jeffrey-williams/profile,"August 4th 2018, 11:12:57.566"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"6,680",127.155.255.9,css,"{
+  ""lat"": 41.92076333,
+  ""lon"": -71.49138139
+}",IN,PK,PK:IN,11,127.155.255.9,ios,"6,442,450,944",,"127.155.255.9 - - [2018-08-04T11:11:56.042Z] ""GET /styles/ad-blocker.css HTTP/1.1"" 200 6680 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/carl-walz,/styles/ad-blocker.css,200,https://cdn.elastic-elastic-elastic.org/styles/ad-blocker.css,"August 4th 2018, 11:11:56.042"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24",315,142.41.6.109,,"{
+  ""lat"": 39.45758333,
+  ""lon"": -74.57716667
+}",PK,US,US:PK,11,142.41.6.109,win 7,"21,474,836,480",,"142.41.6.109 - - [2018-08-04T11:11:05.051Z] ""GET /enterprise-search HTTP/1.1"" 404 315 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://nytimes.com/success/byron-lichtenberg,/enterprise-search,404,https://www.elastic.co/solutions/enterprise-search,"August 4th 2018, 11:11:05.051"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"9,117",41.49.184.237,zip,"{
+  ""lat"": 45.8227275,
+  ""lon"": -92.37250083
+}",LA,MX,MX:LA,11,41.49.184.237,win 8,"5,368,709,120",,"41.49.184.237 - - [2018-08-04T11:05:03.765Z] ""GET /apm-server/apm-server-6.3.2-windows-x86.zip HTTP/1.1"" 200 9117 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://nytimes.com/success/gemini-6a,/apm-server/apm-server-6.3.2-windows-x86.zip,200,https://artifacts.elastic.co/downloads/apm-server/apm-server-6.3.2-windows-x86.zip,"August 4th 2018, 11:05:03.765"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","5,065",224.116.186.65,gz,"{
+  ""lat"": 41.82494611,
+  ""lon"": -110.5590586
+}",IN,BR,BR:IN,11,224.116.186.65,win 8,"12,884,901,888",,"224.116.186.65 - - [2018-08-04T11:04:55.689Z] ""GET /kibana/kibana-6.3.2-linux-x86_64.tar.gz HTTP/1.1"" 200 5065 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/dorothy-m-metcalf-lindenburger,/kibana/kibana-6.3.2-linux-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-linux-x86_64.tar.gz,"August 4th 2018, 11:04:55.689"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"3,684",23.181.102.75,gz,"{
+  ""lat"": 38.97638889,
+  ""lon"": -76.32963889
+}",BI,ID,ID:BI,10,23.181.102.75,win xp,"2,147,483,648",,"23.181.102.75 - - [2018-08-04T10:55:53.370Z] ""GET /elasticsearch/elasticsearch-6.3.2.tar.gz HTTP/1.1"" 200 3684 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://twitter.com/success/john-d-olivas,/elasticsearch/elasticsearch-6.3.2.tar.gz,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.tar.gz,"August 4th 2018, 10:55:53.370"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24",845,41.24.121.113,,"{
+  ""lat"": 37.91453139,
+  ""lon"": -83.25212111
+}",IN,TH,TH:IN,10,41.24.121.113,osx,"17,179,869,184",,"41.24.121.113 - - [2018-08-04T10:53:49.945Z] ""GET / HTTP/1.1"" 200 845 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/warning/laurel-b-clark,/,200,https://www.elastic.co/products,"August 4th 2018, 10:53:49.945"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","6,661",162.19.100.29,rpm,"{
+  ""lat"": 43.23653139,
+  ""lon"": -120.6660967
+}",PG,RO,RO:PG,10,162.19.100.29,win 8,"21,474,836,480",,"162.19.100.29 - - [2018-08-04T10:53:16.028Z] ""GET /beats/metricbeat/metricbeat-6.3.2-i686.rpm HTTP/1.1"" 200 6661 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://facebook.com/success/sheikh-muszaphar-shukor,/beats/metricbeat/metricbeat-6.3.2-i686.rpm,200,https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-i686.rpm,"August 4th 2018, 10:53:16.028"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"8,513",160.20.100.193,deb,"{
+  ""lat"": 40.31611111,
+  ""lon"": -78.83394444
+}",HU,PK,PK:HU,10,160.20.100.193,ios,"32,212,254,720",,"160.20.100.193 - - [2018-08-04T10:51:40.027Z] ""GET /beats/metricbeat/metricbeat-6.3.2-amd64.deb HTTP/1.1"" 200 8513 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/warning/pamela-melroy,/beats/metricbeat/metricbeat-6.3.2-amd64.deb,200,https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-amd64.deb,"August 4th 2018, 10:51:40.027"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","7,102",123.24.232.117,css,"{
+  ""lat"": 47.72423333,
+  ""lon"": -97.59042222
+}",RO,IN,IN:RO,10,123.24.232.117,ios,"12,884,901,888",,"123.24.232.117 - - [2018-08-04T10:49:43.787Z] ""GET /styles/ads.css HTTP/1.1"" 200 7102 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/success/alexander-kaleri,/styles/ads.css,200,https://cdn.elastic-elastic-elastic.org/styles/ads.css,"August 4th 2018, 10:49:43.787"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"9,425",157.4.18.179,css,"{
+  ""lat"": 55.90331972,
+  ""lon"": -130.0067031
+}",BD,IN,IN:BD,10,157.4.18.179,win 8,"10,737,418,240",,"157.4.18.179 - - [2018-08-04T10:49:21.254Z] ""GET /styles/ad-blocker.css HTTP/1.1"" 200 9425 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://nytimes.com/success/gemini-8,/styles/ad-blocker.css,200,https://cdn.elastic-elastic-elastic.org/styles/ad-blocker.css,"August 4th 2018, 10:49:21.254"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","4,128",204.70.91.103,zip,"{
+  ""lat"": 38.13341472,
+  ""lon"": -83.53796528
+}",ET,IN,IN:ET,10,204.70.91.103,osx,"15,032,385,536",,"204.70.91.103 - - [2018-08-04T10:46:45.389Z] ""GET /elasticsearch/elasticsearch-6.3.2.zip HTTP/1.1"" 200 4128 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/success/lee-morin,/elasticsearch/elasticsearch-6.3.2.zip,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.zip,"August 4th 2018, 10:46:45.389"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","4,924",250.85.17.229,gz,"{
+  ""lat"": 29.84475,
+  ""lon"": -82.04752778
+}",CN,BG,BG:CN,10,250.85.17.229,win xp,"12,884,901,888",,"250.85.17.229 - - [2018-08-04T10:43:03.980Z] ""GET /elasticsearch/elasticsearch-6.3.2.tar.gz HTTP/1.1"" 200 4924 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://facebook.com/success/zhai-zhigang,/elasticsearch/elasticsearch-6.3.2.tar.gz,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.tar.gz,"August 4th 2018, 10:43:03.980"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"2,776",193.26.137.221,,"{
+  ""lat"": 33.76114056,
+  ""lon"": -90.75787528
+}",CN,CN,CN:CN,10,193.26.137.221,ios,"19,327,352,832",,"193.26.137.221 - - [2018-08-04T10:42:26.268Z] ""GET /elasticsearch HTTP/1.1"" 200 2776 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/success/aleksandr-pavlovich-aleksandrov,/elasticsearch,200,https://www.elastic.co/downloads/elasticsearch,"August 4th 2018, 10:42:26.268"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"2,917",15.157.237.110,,"{
+  ""lat"": 33.942265,
+  ""lon"": -96.39451806
+}",TW,NG,NG:TW,10,15.157.237.110,ios,"3,221,225,472",,"15.157.237.110 - - [2018-08-04T10:39:37.683Z] ""GET /enterprise HTTP/1.1"" 200 2917 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/michael-massimino,/enterprise,200,https://www.elastic.co/downloads/enterprise,"August 4th 2018, 10:39:37.683"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"5,235",24.42.142.201,deb,"{
+  ""lat"": 33.17183583,
+  ""lon"": -86.30553778
+}",DZ,CA,CA:DZ,10,24.42.142.201,win 7,"17,179,869,184",,"24.42.142.201 - - [2018-08-04T10:29:43.612Z] ""GET /elasticsearch/elasticsearch-6.3.2.deb HTTP/1.1"" 200 5235 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://twitter.com/success/mario-runco-jr-,/elasticsearch/elasticsearch-6.3.2.deb,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.deb,"August 4th 2018, 10:29:43.612"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"7,477",125.7.89.32,gz,"{
+  ""lat"": 35.92891667,
+  ""lon"": -95.00452778
+}",IN,US,US:IN,10,125.7.89.32,win 7,"19,327,352,832",,"125.7.89.32 - - [2018-08-04T10:27:53.473Z] ""GET /kibana/kibana-6.3.2-linux-x86_64.tar.gz HTTP/1.1"" 200 7477 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://facebook.com/success/robert-l-behnken,/kibana/kibana-6.3.2-linux-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-linux-x86_64.tar.gz,"August 4th 2018, 10:27:53.473"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"4,385",92.1.71.155,gz,"{
+  ""lat"": 36.4367025,
+  ""lon"": -99.5209975
+}",SL,JP,JP:SL,10,92.1.71.155,osx,"21,474,836,480",,"92.1.71.155 - - [2018-08-04T10:25:14.618Z] ""GET /kibana/kibana-6.3.2-linux-x86_64.tar.gz HTTP/1.1"" 200 4385 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/success/jack-lousma,/kibana/kibana-6.3.2-linux-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-linux-x86_64.tar.gz,"August 4th 2018, 10:25:14.618"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),0,144.67.214.83,,"{
+  ""lat"": 37.8284525,
+  ""lon"": -121.6258219
+}",JP,IN,IN:JP,10,144.67.214.83,win 7,"32,212,254,720",,"144.67.214.83 - - [2018-08-04T10:22:39.533Z] ""GET /metrics HTTP/1.1"" 503 0 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/success/steven-smith,/metrics,503,https://www.elastic.co/solutions/metrics,"August 4th 2018, 10:22:39.533"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","6,193",247.240.202.244,,"{
+  ""lat"": 47.45815333,
+  ""lon"": -122.4773506
+}",VE,AO,AO:VE,10,247.240.202.244,win xp,"13,958,643,712",,"247.240.202.244 - - [2018-08-04T10:18:28.470Z] ""GET /beats/metricbeat HTTP/1.1"" 200 6193 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/warning/anna-lee-fisher,/beats/metricbeat,200,https://www.elastic.co/downloads/beats/metricbeat,"August 4th 2018, 10:18:28.470"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"1,758",231.185.3.235,,"{
+  ""lat"": 35.73338222,
+  ""lon"": -98.73063833
+}",GT,CN,CN:GT,10,231.185.3.235,ios,"32,212,254,720",,"231.185.3.235 - - [2018-08-04T10:17:01.069Z] ""GET /beats/filebeat HTTP/1.1"" 200 1758 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://facebook.com/success/virgil-i-gus-grissom,/beats/filebeat,200,https://www.elastic.co/downloads/beats/filebeat,"August 4th 2018, 10:17:01.069"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"1,922",45.138.21.203,css,"{
+  ""lat"": 42.66361778,
+  ""lon"": -85.34625944
+}",US,CN,CN:US,10,45.138.21.203,win 8,"11,811,160,064",,"45.138.21.203 - - [2018-08-04T10:16:36.326Z] ""GET /styles/ads.css HTTP/1.1"" 200 1922 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/vitaliy-zholobov,/styles/ads.css,200,https://cdn.elastic-elastic-elastic.org/styles/ads.css,"August 4th 2018, 10:16:36.326"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"7,645",215.67.92.140,css,"{
+  ""lat"": 41.92076333,
+  ""lon"": -71.49138139
+}",CN,BW,BW:CN,10,215.67.92.140,win 8,"15,032,385,536",,"215.67.92.140 - - [2018-08-04T10:14:52.417Z] ""GET /styles/main.css HTTP/1.1"" 200 7645 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/success/stephen-g-bowen,/styles/main.css,200,https://cdn.elastic-elastic-elastic.org/styles/main.css,"August 4th 2018, 10:14:52.417"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"9,128",217.31.123.207,gz,"{
+  ""lat"": 57.78083333,
+  ""lon"": -152.3913889
+}",SL,IN,IN:SL,10,217.31.123.207,win xp,"19,327,352,832",,"217.31.123.207 - - [2018-08-04T10:12:15.306Z] ""GET /beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz HTTP/1.1"" 200 9128 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/donn-f-eisele,/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,200,https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,"August 4th 2018, 10:12:15.306"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"8,019",84.145.10.104,,"{
+  ""lat"": 42.98136667,
+  ""lon"": -77.93751389
+}",IN,GH,GH:IN,10,84.145.10.104,ios,"32,212,254,720",,"84.145.10.104 - - [2018-08-04T10:11:14.045Z] ""GET /beats/filebeat HTTP/1.1"" 200 8019 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/vyacheslav-zudov,/beats/filebeat,200,https://www.elastic.co/downloads/beats/filebeat,"August 4th 2018, 10:11:14.045"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","7,543",9.36.58.163,,"{
+  ""lat"": 38.97638889,
+  ""lon"": -76.32963889
+}",ET,TJ,TJ:ET,10,9.36.58.163,win xp,"12,884,901,888",,"9.36.58.163 - - [2018-08-04T10:03:30.833Z] ""GET /beats/filebeat HTTP/1.1"" 200 7543 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://facebook.com/warning/reinhard-furrer,/beats/filebeat,200,https://www.elastic.co/downloads/beats/filebeat,"August 4th 2018, 10:03:30.833"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","3,059",213.235.30.99,zip,"{
+  ""lat"": 38.01769694,
+  ""lon"": -86.69093
+}",UA,PH,PH:UA,10,213.235.30.99,win 7,"20,401,094,656",,"213.235.30.99 - - [2018-08-04T10:02:58.085Z] ""GET /apm-server/apm-server-6.3.2-windows-x86.zip HTTP/1.1"" 404 3059 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/kathryn-thornton,/apm-server/apm-server-6.3.2-windows-x86.zip,404,https://artifacts.elastic.co/downloads/apm-server/apm-server-6.3.2-windows-x86.zip,"August 4th 2018, 10:02:58.085"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"8,287",155.184.61.138,,"{
+  ""lat"": 42.71124583,
+  ""lon"": -110.9421639
+}",CN,MX,MX:CN,9,155.184.61.138,ios,"32,212,254,720","331,480","155.184.61.138 - - [2018-08-04T09:59:36.682Z] ""GET /people/type:astronauts/name:owen-garriott/profile HTTP/1.1"" 200 8287 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""","331,480",http://www.elastic-elastic-elastic.com/warning/clayton-anderson,/people/type:astronauts/name:owen-garriott/profile,200,https://elastic-elastic-elastic.org/people/type:astronauts/name:owen-garriott/profile,"August 4th 2018, 09:59:36.682"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"1,920",121.1.186.135,rpm,"{
+  ""lat"": 47.44898194,
+  ""lon"": -122.3093131
+}",IN,CN,CN:IN,9,121.1.186.135,win 7,"6,442,450,944",,"121.1.186.135 - - [2018-08-04T09:57:49.071Z] ""GET /beats/metricbeat/metricbeat-6.3.2-i686.rpm HTTP/1.1"" 200 1920 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/warning/claudie-haigner-,/beats/metricbeat/metricbeat-6.3.2-i686.rpm,200,https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-i686.rpm,"August 4th 2018, 09:57:49.071"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"8,870",223.112.248.233,css,"{
+  ""lat"": 35.53455,
+  ""lon"": -97.64721556
+}",MX,CN,CN:MX,9,223.112.248.233,ios,"17,179,869,184",,"223.112.248.233 - - [2018-08-04T09:54:02.336Z] ""GET /styles/ad-blocker.css HTTP/1.1"" 200 8870 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://nytimes.com/success/donald-pettit,/styles/ad-blocker.css,200,https://cdn.elastic-elastic-elastic.org/styles/ad-blocker.css,"August 4th 2018, 09:54:02.336"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","5,793",107.238.94.231,css,"{
+  ""lat"": 60.7772125,
+  ""lon"": -148.7215775
+}",BD,US,US:BD,9,107.238.94.231,ios,"13,958,643,712",,"107.238.94.231 - - [2018-08-04T09:49:07.146Z] ""GET /styles/main.css HTTP/1.1"" 200 5793 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/vladim-r-remek,/styles/main.css,200,https://cdn.elastic-elastic-elastic.org/styles/main.css,"August 4th 2018, 09:49:07.146"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","6,587",234.226.50.122,,"{
+  ""lat"": 35.27467806,
+  ""lon"": -96.67516194
+}",IR,IN,IN:IR,9,234.226.50.122,win 8,"5,368,709,120",,"234.226.50.122 - - [2018-08-04T09:48:28.618Z] ""GET /enterprise HTTP/1.1"" 200 6587 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://facebook.com/success/takuya-onishi,/enterprise,200,https://www.elastic.co/downloads/enterprise,"August 4th 2018, 09:48:28.618"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"9,243",226.241.242.182,gz,"{
+  ""lat"": 29.80411,
+  ""lon"": -94.43102306
+}",CN,JP,JP:CN,9,226.241.242.182,win xp,"4,294,967,296",,"226.241.242.182 - - [2018-08-04T09:47:49.674Z] ""GET /beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz HTTP/1.1"" 200 9243 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/error/david-wolf,/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,200,https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,"August 4th 2018, 09:47:49.674"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"9,907",104.1.107.97,,"{
+  ""lat"": 62.07118972,
+  ""lon"": -142.0483742
+}",NE,NL,NL:NE,9,104.1.107.97,ios,"32,212,254,720",,"104.1.107.97 - - [2018-08-04T09:44:39.521Z] ""GET /beats/filebeat HTTP/1.1"" 200 9907 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://facebook.com/success/anthony-w-england,/beats/filebeat,200,https://www.elastic.co/downloads/beats/filebeat,"August 4th 2018, 09:44:39.521"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"3,589",233.78.21.130,,"{
+  ""lat"": 42.99821222,
+  ""lon"": -74.32955111
+}",CN,NG,NG:CN,9,233.78.21.130,ios,"32,212,254,720","143,560","233.78.21.130 - - [2018-08-04T09:41:12.630Z] ""GET /people/type:astronauts/name:vasili-tsibliyev/profile HTTP/1.1"" 200 3589 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""","143,560",http://nytimes.com/success/l-opold-eyharts,/people/type:astronauts/name:vasili-tsibliyev/profile,200,https://elastic-elastic-elastic.org/people/type:astronauts/name:vasili-tsibliyev/profile,"August 4th 2018, 09:41:12.630"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),512,45.91.116.169,,"{
+  ""lat"": 41.4775,
+  ""lon"": -87.84047222
+}",FR,CN,CN:FR,9,45.91.116.169,win xp,"8,589,934,592",,"45.91.116.169 - - [2018-08-04T09:34:29.851Z] ""GET /app-search HTTP/1.1"" 200 512 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://facebook.com/success/yuri-artyukhin,/app-search,200,https://www.elastic.co/solutions/app-search,"August 4th 2018, 09:34:29.851"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"4,528",195.205.253.98,gz,"{
+  ""lat"": 43.58135111,
+  ""lon"": -96.74170028
+}",CO,IN,IN:CO,9,195.205.253.98,win 8,"17,179,869,184",,"195.205.253.98 - - [2018-08-04T09:28:36.938Z] ""GET /kibana/kibana-6.3.2-linux-x86_64.tar.gz HTTP/1.1"" 200 4528 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/sheikh-muszaphar-shukor,/kibana/kibana-6.3.2-linux-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-linux-x86_64.tar.gz,"August 4th 2018, 09:28:36.938"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"3,549",186.153.168.71,gz,"{
+  ""lat"": 46.97120167,
+  ""lon"": -123.9365581
+}",CN,HN,HN:CN,9,186.153.168.71,win 7,"15,032,385,536",,"186.153.168.71 - - [2018-08-04T09:27:15.765Z] ""GET /elasticsearch/elasticsearch-6.3.2.tar.gz HTTP/1.1"" 200 3549 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://nytimes.com/success/scott-kelly,/elasticsearch/elasticsearch-6.3.2.tar.gz,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.tar.gz,"August 4th 2018, 09:27:15.765"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"4,200",148.192.209.125,css,"{
+  ""lat"": 32.44441583,
+  ""lon"": -97.8169475
+}",NG,TR,TR:NG,9,148.192.209.125,win xp,"8,589,934,592",,"148.192.209.125 - - [2018-08-04T09:22:33.229Z] ""GET /styles/ad-blocker.css HTTP/1.1"" 200 4200 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/boris-morukov,/styles/ad-blocker.css,200,https://cdn.elastic-elastic-elastic.org/styles/ad-blocker.css,"August 4th 2018, 09:22:33.229"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","9,065",37.68.248.33,,"{
+  ""lat"": 40.45269444,
+  ""lon"": -99.33733333
+}",BR,UA,UA:BR,9,37.68.248.33,osx,"11,811,160,064",,"37.68.248.33 - - [2018-08-04T09:18:42.548Z] ""GET /beats HTTP/1.1"" 200 9065 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/liu-wang,/beats,200,https://www.elastic.co/downloads/beats,"August 4th 2018, 09:18:42.548"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","2,917",247.240.202.244,gz,"{
+  ""lat"": 41.78015722,
+  ""lon"": -124.2365333
+}",EG,RU,RU:EG,9,247.240.202.244,osx,"17,179,869,184",,"247.240.202.244 - - [2018-08-04T09:15:23.398Z] ""GET /elasticsearch/elasticsearch-6.3.2.tar.gz HTTP/1.1"" 200 2917 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/success/liu-wang,/elasticsearch/elasticsearch-6.3.2.tar.gz,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.tar.gz,"August 4th 2018, 09:15:23.398"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"9,424",31.218.136.66,css,"{
+  ""lat"": 36.86330139,
+  ""lon"": -99.61873056
+}",GB,PK,PK:GB,9,31.218.136.66,ios,"11,811,160,064",,"31.218.136.66 - - [2018-08-04T09:15:09.452Z] ""GET /styles/main.css HTTP/1.1"" 200 9424 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/stephanie-wilson,/styles/main.css,200,https://cdn.elastic-elastic-elastic.org/styles/main.css,"August 4th 2018, 09:15:09.452"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"3,544",131.67.252.115,css,"{
+  ""lat"": 35.10136472,
+  ""lon"": -120.6221153
+}",VE,CN,CN:VE,9,131.67.252.115,ios,"5,368,709,120",,"131.67.252.115 - - [2018-08-04T09:05:14.782Z] ""GET /styles/main.css HTTP/1.1"" 200 3544 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://facebook.com/error/piers-sellers,/styles/main.css,200,https://cdn.elastic-elastic-elastic.org/styles/main.css,"August 4th 2018, 09:05:14.782"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"7,759",240.193.35.0,zip,"{
+  ""lat"": 34.44953972,
+  ""lon"": -87.71030833
+}",PK,TR,TR:PK,9,240.193.35.0,osx,"2,147,483,648",,"240.193.35.0 - - [2018-08-04T09:03:08.922Z] ""GET /apm-server/apm-server-6.3.2-windows-x86.zip HTTP/1.1"" 200 7759 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://twitter.com/success/william-pogue,/apm-server/apm-server-6.3.2-windows-x86.zip,200,https://artifacts.elastic.co/downloads/apm-server/apm-server-6.3.2-windows-x86.zip,"August 4th 2018, 09:03:08.922"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"6,248",93.193.189.184,deb,"{
+  ""lat"": 45.03191861,
+  ""lon"": -99.11566417
+}",KZ,ID,ID:KZ,9,93.193.189.184,ios,"18,253,611,008",,"93.193.189.184 - - [2018-08-04T09:01:39.134Z] ""GET /elasticsearch/elasticsearch-6.3.2.deb HTTP/1.1"" 200 6248 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/success/sherwood-spring,/elasticsearch/elasticsearch-6.3.2.deb,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.deb,"August 4th 2018, 09:01:39.134"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","7,021",132.230.228.161,deb,"{
+  ""lat"": 38.92977778,
+  ""lon"": -81.81947222
+}",MM,BD,BD:MM,9,132.230.228.161,win 7,"32,212,254,720",,"132.230.228.161 - - [2018-08-04T09:00:09.666Z] ""GET /elasticsearch/elasticsearch-6.3.2.deb HTTP/1.1"" 200 7021 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/gary-payton,/elasticsearch/elasticsearch-6.3.2.deb,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.deb,"August 4th 2018, 09:00:09.666"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"7,315",225.72.201.213,,"{
+  ""lat"": 33.09025889,
+  ""lon"": -89.54201722
+}",PK,VE,VE:PK,8,225.72.201.213,win xp,"13,958,643,712",,"225.72.201.213 - - [2018-08-04T08:56:04.568Z] ""GET /enterprise HTTP/1.1"" 200 7315 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/georgi-dobrovolski,/enterprise,200,https://www.elastic.co/downloads/enterprise,"August 4th 2018, 08:56:04.568"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","2,648",3.153.166.21,,"{
+  ""lat"": 41.87877778,
+  ""lon"": -92.28456944
+}",IN,ET,ET:IN,8,3.153.166.21,win 8,"4,294,967,296",,"3.153.166.21 - - [2018-08-04T08:51:30.072Z] ""GET /apm HTTP/1.1"" 200 2648 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/warning/robert-l-behnken,/apm,200,https://www.elastic.co/downloads/apm,"August 4th 2018, 08:51:30.072"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"8,413",93.4.75.96,gz,"{
+  ""lat"": 38.27918833,
+  ""lon"": -95.21691833
+}",CN,IN,IN:CN,8,93.4.75.96,win 7,"18,253,611,008",,"93.4.75.96 - - [2018-08-04T08:49:05.495Z] ""GET /elasticsearch/elasticsearch-6.3.2.tar.gz HTTP/1.1"" 200 8413 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://facebook.com/success/alexander-viktorenko,/elasticsearch/elasticsearch-6.3.2.tar.gz,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.tar.gz,"August 4th 2018, 08:49:05.495"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","7,947",103.23.205.126,,"{
+  ""lat"": 40.47091667,
+  ""lon"": -81.41975
+}",EG,CN,CN:EG,8,103.23.205.126,osx,"3,221,225,472",,"103.23.205.126 - - [2018-08-04T08:46:52.904Z] ""GET / HTTP/1.1"" 200 7947 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/warning/mikhail-tyurin,/,200,https://www.elastic.co/downloads,"August 4th 2018, 08:46:52.904"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"2,451",2.224.60.212,deb,"{
+  ""lat"": 41.70742861,
+  ""lon"": -73.73802889
+}",VN,VN,VN:VN,8,2.224.60.212,win xp,"17,179,869,184",,"2.224.60.212 - - [2018-08-04T08:45:28.609Z] ""GET /beats/metricbeat/metricbeat-6.3.2-amd64.deb HTTP/1.1"" 200 2451 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://twitter.com/warning/fyodor-yurchikhin,/beats/metricbeat/metricbeat-6.3.2-amd64.deb,200,https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-amd64.deb,"August 4th 2018, 08:45:28.609"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","6,936",192.198.214.108,css,"{
+  ""lat"": 63.86620806,
+  ""lon"": -148.9689842
+}",BD,ES,ES:BD,8,192.198.214.108,ios,"20,401,094,656",,"192.198.214.108 - - [2018-08-04T08:44:58.202Z] ""GET /styles/ad-blocker.css HTTP/1.1"" 200 6936 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://nytimes.com/success/viktor-patsayev,/styles/ad-blocker.css,200,https://cdn.elastic-elastic-elastic.org/styles/ad-blocker.css,"August 4th 2018, 08:44:58.202"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","8,359",167.150.117.40,css,"{
+  ""lat"": 30.87935556,
+  ""lon"": -96.97109694
+}",CD,US,US:CD,8,167.150.117.40,win 8,"16,106,127,360",,"167.150.117.40 - - [2018-08-04T08:43:42.387Z] ""GET /styles/ad-blocker.css HTTP/1.1"" 404 8359 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://facebook.com/success/anatoly-artsebarsky,/styles/ad-blocker.css,404,https://cdn.elastic-elastic-elastic.org/styles/ad-blocker.css,"August 4th 2018, 08:43:42.387"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"5,404",149.78.125.116,gz,"{
+  ""lat"": 39.94445833,
+  ""lon"": -81.89210528
+}",NE,EG,EG:NE,8,149.78.125.116,ios,"5,368,709,120",,"149.78.125.116 - - [2018-08-04T08:40:24.795Z] ""GET /elasticsearch/elasticsearch-6.3.2.tar.gz HTTP/1.1"" 200 5404 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/james-wetherbee,/elasticsearch/elasticsearch-6.3.2.tar.gz,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.tar.gz,"August 4th 2018, 08:40:24.795"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"4,454",247.240.202.244,deb,"{
+  ""lat"": 66.57149028,
+  ""lon"": -145.2504169
+}",US,AR,AR:US,8,247.240.202.244,win xp,"2,147,483,648",,"247.240.202.244 - - [2018-08-04T08:35:06.372Z] ""GET /elasticsearch/elasticsearch-6.3.2.deb HTTP/1.1"" 200 4454 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://facebook.com/success/toktar-aubakirov,/elasticsearch/elasticsearch-6.3.2.deb,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.deb,"August 4th 2018, 08:35:06.372"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"4,838",237.31.111.6,,"{
+  ""lat"": 44.02914056,
+  ""lon"": -97.53784778
+}",RU,IT,IT:RU,8,237.31.111.6,ios,"17,179,869,184",,"237.31.111.6 - - [2018-08-04T08:31:38.999Z] ""GET /elasticsearch HTTP/1.1"" 200 4838 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://twitter.com/warning/mark-brown,/elasticsearch,200,https://www.elastic.co/downloads/elasticsearch,"August 4th 2018, 08:31:38.999"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"2,146",193.134.203.247,zip,"{
+  ""lat"": 62.95287361,
+  ""lon"": -155.6057625
+}",US,IN,IN:US,8,193.134.203.247,win xp,"12,884,901,888",,"193.134.203.247 - - [2018-08-04T08:30:04.432Z] ""GET /elasticsearch/elasticsearch-6.3.2.zip HTTP/1.1"" 200 2146 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://facebook.com/warning/dominic-gorie,/elasticsearch/elasticsearch-6.3.2.zip,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.zip,"August 4th 2018, 08:30:04.432"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"8,934",167.94.220.213,gz,"{
+  ""lat"": 40.56943056,
+  ""lon"": -102.2726875
+}",CN,IN,IN:CN,8,167.94.220.213,win xp,"15,032,385,536",,"167.94.220.213 - - [2018-08-04T08:26:48.648Z] ""GET /beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz HTTP/1.1"" 200 8934 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://facebook.com/success/robert-satcher,/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,200,https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,"August 4th 2018, 08:26:48.648"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"2,191",176.102.127.50,gz,"{
+  ""lat"": 36.29014667,
+  ""lon"": -98.47582833
+}",NE,ID,ID:NE,8,176.102.127.50,win 8,"6,442,450,944",,"176.102.127.50 - - [2018-08-04T08:24:47.117Z] ""GET /beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz HTTP/1.1"" 200 2191 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/gennadi-manakov,/beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz,"August 4th 2018, 08:24:47.117"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","3,073",77.17.155.213,deb,"{
+  ""lat"": 41.74284139,
+  ""lon"": -89.67629028
+}",US,SD,SD:US,8,77.17.155.213,osx,"21,474,836,480",,"77.17.155.213 - - [2018-08-04T08:22:40.542Z] ""GET /beats/metricbeat/metricbeat-6.3.2-amd64.deb HTTP/1.1"" 200 3073 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/success/anna-lee-fisher,/beats/metricbeat/metricbeat-6.3.2-amd64.deb,200,https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-amd64.deb,"August 4th 2018, 08:22:40.542"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"3,880",68.242.246.24,,"{
+  ""lat"": 38.85148778,
+  ""lon"": -83.56627778
+}",IN,PL,PL:IN,8,68.242.246.24,osx,"20,401,094,656",,"68.242.246.24 - - [2018-08-04T08:20:44.255Z] ""GET /beats HTTP/1.1"" 200 3880 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/chiaki-mukai,/beats,200,https://www.elastic.co/downloads/beats,"August 4th 2018, 08:20:44.255"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","2,588",31.218.136.66,deb,"{
+  ""lat"": 31.77962833,
+  ""lon"": -103.2013619
+}",CN,CN,CN:CN,8,31.218.136.66,ios,"20,401,094,656",,"31.218.136.66 - - [2018-08-04T08:19:34.302Z] ""GET /beats/metricbeat/metricbeat-6.3.2-amd64.deb HTTP/1.1"" 200 2588 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/valery-rozhdestvensky,/beats/metricbeat/metricbeat-6.3.2-amd64.deb,200,https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-amd64.deb,"August 4th 2018, 08:19:34.302"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","6,155",38.40.117.235,,"{
+  ""lat"": 41.92076333,
+  ""lon"": -71.49138139
+}",TH,CI,CI:TH,8,38.40.117.235,osx,"21,474,836,480",,"38.40.117.235 - - [2018-08-04T08:17:31.819Z] ""GET /apm HTTP/1.1"" 200 6155 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/success/william-oefelein,/apm,200,https://www.elastic.co/downloads/apm,"August 4th 2018, 08:17:31.819"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","9,112",243.169.209.141,zip,"{
+  ""lat"": 58.09609139,
+  ""lon"": -135.4096975
+}",NG,IN,IN:NG,8,243.169.209.141,win xp,"32,212,254,720",,"243.169.209.141 - - [2018-08-04T08:17:13.383Z] ""GET /apm-server/apm-server-6.3.2-windows-x86.zip HTTP/1.1"" 200 9112 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://facebook.com/warning/anthony-w-england,/apm-server/apm-server-6.3.2-windows-x86.zip,200,https://artifacts.elastic.co/downloads/apm-server/apm-server-6.3.2-windows-x86.zip,"August 4th 2018, 08:17:13.383"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"3,361",236.66.217.135,rpm,"{
+  ""lat"": 39.90416667,
+  ""lon"": -95.7794325
+}",PK,CN,CN:PK,8,236.66.217.135,win xp,"32,212,254,720",,"236.66.217.135 - - [2018-08-04T08:14:56.775Z] ""GET /beats/metricbeat/metricbeat-6.3.2-i686.rpm HTTP/1.1"" 200 3361 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/success/frederick-hauck,/beats/metricbeat/metricbeat-6.3.2-i686.rpm,200,https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-i686.rpm,"August 4th 2018, 08:14:56.775"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"4,564",70.35.217.22,deb,"{
+  ""lat"": 34.593225,
+  ""lon"": -117.3794667
+}",RO,US,US:RO,8,70.35.217.22,win xp,"12,884,901,888",,"70.35.217.22 - - [2018-08-04T08:11:57.678Z] ""GET /elasticsearch/elasticsearch-6.3.2.deb HTTP/1.1"" 200 4564 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://twitter.com/success/mikhail-tyurin,/elasticsearch/elasticsearch-6.3.2.deb,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.deb,"August 4th 2018, 08:11:57.678"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"6,120",9.36.58.163,,"{
+  ""lat"": 35.91898806,
+  ""lon"": -75.69553944
+}",BR,EG,EG:BR,8,9.36.58.163,win xp,"17,179,869,184",,"9.36.58.163 - - [2018-08-04T08:11:05.674Z] ""GET /apm HTTP/1.1"" 200 6120 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/nikolai-budarin,/apm,200,https://www.elastic.co/downloads/apm,"August 4th 2018, 08:11:05.674"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"9,199",108.82.70.138,,"{
+  ""lat"": 47.81833333,
+  ""lon"": -92.29166667
+}",CN,NE,NE:CN,8,108.82.70.138,win xp,"17,179,869,184","367,960","108.82.70.138 - - [2018-08-04T08:07:24.784Z] ""GET /people/type:astronauts/name:jos-hern-ndez/profile HTTP/1.1"" 200 9199 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""","367,960",http://twitter.com/success/timothy-creamer,/people/type:astronauts/name:jos-hern-ndez/profile,200,https://elastic-elastic-elastic.org/people/type:astronauts/name:jos-hern-ndez/profile,"August 4th 2018, 08:07:24.784"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","4,907",174.127.38.177,gz,"{
+  ""lat"": 35.82149222,
+  ""lon"": -81.61073639
+}",CN,AU,AU:CN,8,174.127.38.177,ios,"3,221,225,472",,"174.127.38.177 - - [2018-08-04T08:01:29.235Z] ""GET /elasticsearch/elasticsearch-6.3.2.tar.gz HTTP/1.1"" 200 4907 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/paolo-a-nespoli,/elasticsearch/elasticsearch-6.3.2.tar.gz,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.tar.gz,"August 4th 2018, 08:01:29.235"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"7,703",96.239.18.242,deb,"{
+  ""lat"": 38.68322389,
+  ""lon"": -96.80800639
+}",IN,FR,FR:IN,7,96.239.18.242,win 7,"21,474,836,480",,"96.239.18.242 - - [2018-08-04T07:59:52.601Z] ""GET /beats/metricbeat/metricbeat-6.3.2-amd64.deb HTTP/1.1"" 200 7703 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/valentin-lebedev,/beats/metricbeat/metricbeat-6.3.2-amd64.deb,200,https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-amd64.deb,"August 4th 2018, 07:59:52.601"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"9,261",252.102.14.111,css,"{
+  ""lat"": 56.97299639,
+  ""lon"": -133.9456147
+}",CN,ES,ES:CN,7,252.102.14.111,osx,"4,294,967,296",,"252.102.14.111 - - [2018-08-04T07:52:22.611Z] ""GET /styles/main.css HTTP/1.1"" 200 9261 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/donald-thomas,/styles/main.css,200,https://cdn.elastic-elastic-elastic.org/styles/main.css,"August 4th 2018, 07:52:22.611"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"3,376",157.4.76.38,,"{
+  ""lat"": 37.58271111,
+  ""lon"": -101.73281
+}",CN,MX,MX:CN,7,157.4.76.38,ios,"5,368,709,120",,"157.4.76.38 - - [2018-08-04T07:52:03.138Z] ""GET /enterprise HTTP/1.1"" 200 3376 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/bjarni-tryggvason,/enterprise,200,https://www.elastic.co/downloads/enterprise,"August 4th 2018, 07:52:03.138"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"4,222",104.224.124.252,gz,"{
+  ""lat"": 37.16861556,
+  ""lon"": -97.03752194
+}",CN,CN,CN:CN,7,104.224.124.252,osx,"6,442,450,944",,"104.224.124.252 - - [2018-08-04T07:50:11.509Z] ""GET /beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz HTTP/1.1"" 200 4222 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/error/albert-sacco,/beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz,"August 4th 2018, 07:50:11.509"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24",0,186.153.168.71,zip,"{
+  ""lat"": 42.35003667,
+  ""lon"": -83.45826833
+}",JP,CN,CN:JP,7,186.153.168.71,win 8,"12,884,901,888",,"186.153.168.71 - - [2018-08-04T07:28:01.434Z] ""GET /elasticsearch/elasticsearch-6.3.2.zip HTTP/1.1"" 503 0 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/anatoly-filipchenko,/elasticsearch/elasticsearch-6.3.2.zip,503,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.zip,"August 4th 2018, 07:28:01.434"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"2,334",149.222.154.185,,"{
+  ""lat"": 42.96320278,
+  ""lon"": -88.81762806
+}",US,CN,CN:US,7,149.222.154.185,ios,"21,474,836,480",,"149.222.154.185 - - [2018-08-04T07:27:59.906Z] ""GET / HTTP/1.1"" 200 2334 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://facebook.com/warning/bernard-a-harris-jr-,/,200,https://www.elastic.co/downloads,"August 4th 2018, 07:27:59.906"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"9,373",7.88.50.146,gz,"{
+  ""lat"": 43.56444444,
+  ""lon"": -116.2227778
+}",UA,IT,IT:UA,7,7.88.50.146,win xp,"11,811,160,064",,"7.88.50.146 - - [2018-08-04T07:25:13.748Z] ""GET /kibana/kibana-6.3.2-darwin-x86_64.tar.gz HTTP/1.1"" 200 9373 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/success/oleg-kononenko,/kibana/kibana-6.3.2-darwin-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-darwin-x86_64.tar.gz,"August 4th 2018, 07:25:13.748"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","5,771",117.46.30.183,rpm,"{
+  ""lat"": 32.84069444,
+  ""lon"": -84.88244444
+}",CN,CN,CN:CN,7,117.46.30.183,win xp,"9,663,676,416",,"117.46.30.183 - - [2018-08-04T07:19:14.807Z] ""GET /beats/metricbeat/metricbeat-6.3.2-i686.rpm HTTP/1.1"" 200 5771 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/error/lee-morin,/beats/metricbeat/metricbeat-6.3.2-i686.rpm,200,https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-i686.rpm,"August 4th 2018, 07:19:14.807"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"3,644",248.150.117.171,zip,"{
+  ""lat"": 33.35283972,
+  ""lon"": -108.8672858
+}",US,CF,CF:US,7,248.150.117.171,win xp,"17,179,869,184",,"248.150.117.171 - - [2018-08-04T07:15:26.027Z] ""GET /elasticsearch/elasticsearch-6.3.2.zip HTTP/1.1"" 200 3644 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://twitter.com/success/yuri-baturin,/elasticsearch/elasticsearch-6.3.2.zip,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.zip,"August 4th 2018, 07:15:26.027"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24",63,19.253.238.55,,"{
+  ""lat"": 43.62637222,
+  ""lon"": -72.30426722
+}",CA,CN,CN:CA,7,19.253.238.55,osx,"9,663,676,416","2,520","19.253.238.55 - - [2018-08-04T07:05:25.352Z] ""GET /people/type:astronauts/name:james-voss/profile HTTP/1.1"" 200 63 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""","2,520",http://www.elastic-elastic-elastic.com/success/tracy-caldwell-dyson,/people/type:astronauts/name:james-voss/profile,200,https://elastic-elastic-elastic.org/people/type:astronauts/name:james-voss/profile,"August 4th 2018, 07:05:25.352"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","4,140",83.33.230.67,zip,"{
+  ""lat"": 59.97904306,
+  ""lon"": -154.8396944
+}",CN,IN,IN:CN,6,83.33.230.67,win 7,"15,032,385,536",,"83.33.230.67 - - [2018-08-04T06:54:48.517Z] ""GET /elasticsearch/elasticsearch-6.3.2.zip HTTP/1.1"" 200 4140 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/oleg-novitskiy,/elasticsearch/elasticsearch-6.3.2.zip,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.zip,"August 4th 2018, 06:54:48.517"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"6,828",245.25.229.135,zip,"{
+  ""lat"": 45.3319325,
+  ""lon"": -95.650565
+}",IN,BJ,BJ:IN,6,245.25.229.135,ios,"2,147,483,648",,"245.25.229.135 - - [2018-08-04T06:53:03.042Z] ""GET /apm-server/apm-server-6.3.2-windows-x86.zip HTTP/1.1"" 200 6828 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/success/janice-voss,/apm-server/apm-server-6.3.2-windows-x86.zip,200,https://artifacts.elastic.co/downloads/apm-server/apm-server-6.3.2-windows-x86.zip,"August 4th 2018, 06:53:03.042"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"15,985",240.187.33.223,deb,"{
+  ""lat"": 43.18200222,
+  ""lon"": -78.55780528
+}",VN,CN,CN:VN,6,240.187.33.223,ios,"16,106,127,360",,"240.187.33.223 - - [2018-08-04T06:46:06.058Z] ""GET /apm-server/apm-server-6.3.2-amd64.deb HTTP/1.1"" 200 15985 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/luca-parmitano,/apm-server/apm-server-6.3.2-amd64.deb,200,https://artifacts.elastic.co/downloads/apm-server/apm-server-6.3.2-amd64.deb,"August 4th 2018, 06:46:06.058"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"4,537",116.174.134.165,gz,"{
+  ""lat"": 37.4894925,
+  ""lon"": -94.31150444
+}",CN,ID,ID:CN,6,116.174.134.165,osx,"13,958,643,712",,"116.174.134.165 - - [2018-08-04T06:42:26.336Z] ""GET /beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz HTTP/1.1"" 200 4537 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://facebook.com/success/james-dutton,/beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz,"August 4th 2018, 06:42:26.336"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"5,867",142.41.6.109,,"{
+  ""lat"": 41.78015722,
+  ""lon"": -124.2365333
+}",IN,US,US:IN,6,142.41.6.109,win xp,"8,589,934,592",,"142.41.6.109 - - [2018-08-04T06:32:34.901Z] ""GET /enterprise HTTP/1.1"" 200 5867 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://facebook.com/success/dick-scobee,/enterprise,200,https://www.elastic.co/downloads/enterprise,"August 4th 2018, 06:32:34.901"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"2,066",174.98.40.39,,"{
+  ""lat"": 36.68827778,
+  ""lon"": -78.05447222
+}",SS,BR,BR:SS,6,174.98.40.39,win 8,"5,368,709,120",,"174.98.40.39 - - [2018-08-04T06:29:23.987Z] ""GET /beats/metricbeat HTTP/1.1"" 200 2066 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/success/jean-pierre-haigner-,/beats/metricbeat,200,https://www.elastic.co/downloads/beats/metricbeat,"August 4th 2018, 06:29:23.987"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"1,897",117.214.211.68,,"{
+  ""lat"": 34.34722167,
+  ""lon"": -119.061215
+}",NG,CN,CN:NG,6,117.214.211.68,win xp,"8,589,934,592",,"117.214.211.68 - - [2018-08-04T06:18:18.007Z] ""GET /beats/metricbeat HTTP/1.1"" 200 1897 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/henry-hartsfield,/beats/metricbeat,200,https://www.elastic.co/downloads/beats/metricbeat,"August 4th 2018, 06:18:18.007"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","9,417",186.81.116.110,gz,"{
+  ""lat"": 39.72870694,
+  ""lon"": -92.464455
+}",US,CN,CN:US,6,186.81.116.110,win xp,"19,327,352,832",,"186.81.116.110 - - [2018-08-04T06:17:37.555Z] ""GET /beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz HTTP/1.1"" 200 9417 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/success/yuri-malenchenko,/beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz,"August 4th 2018, 06:17:37.555"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"4,054",16.241.165.21,zip,"{
+  ""lat"": 37.06447222,
+  ""lon"": -89.21961111
+}",CN,CN,CN:CN,6,16.241.165.21,win xp,"15,032,385,536",,"16.241.165.21 - - [2018-08-04T06:12:11.368Z] ""GET /kibana/kibana-6.3.2-windows-x86_64.zip HTTP/1.1"" 200 4054 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/james-p-bagian,/kibana/kibana-6.3.2-windows-x86_64.zip,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-windows-x86_64.zip,"August 4th 2018, 06:12:11.368"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"8,899",97.242.45.199,,"{
+  ""lat"": 41.36276778,
+  ""lon"": -94.02106194
+}",ET,DZ,DZ:ET,6,97.242.45.199,win 8,"6,442,450,944",,"97.242.45.199 - - [2018-08-04T06:08:51.504Z] ""GET /elasticsearch HTTP/1.1"" 200 8899 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://facebook.com/success/janet-l-kavandi,/elasticsearch,200,https://www.elastic.co/downloads/elasticsearch,"August 4th 2018, 06:08:51.504"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"5,875",232.250.232.248,,"{
+  ""lat"": 38.78539722,
+  ""lon"": -108.0636611
+}",BG,IN,IN:BG,6,232.250.232.248,win 7,"32,212,254,720",,"232.250.232.248 - - [2018-08-04T06:00:23.305Z] ""GET / HTTP/1.1"" 200 5875 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://nytimes.com/success/vasili-tsibliyev,/,200,https://www.elastic.co/downloads,"August 4th 2018, 06:00:23.305"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"4,395",52.244.4.148,deb,"{
+  ""lat"": 44.40416667,
+  ""lon"": -118.9625
+}",IN,NG,NG:IN,5,52.244.4.148,win xp,"18,253,611,008",,"52.244.4.148 - - [2018-08-04T05:56:10.490Z] ""GET /beats/metricbeat/metricbeat-6.3.2-amd64.deb HTTP/1.1"" 200 4395 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/error/mikhail-korniyenko,/beats/metricbeat/metricbeat-6.3.2-amd64.deb,200,https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-amd64.deb,"August 4th 2018, 05:56:10.490"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","5,067",58.43.151.223,,"{
+  ""lat"": 44.82724111,
+  ""lon"": -93.45714639
+}",BR,BD,BD:BR,5,58.43.151.223,win 7,"4,294,967,296",,"58.43.151.223 - - [2018-08-04T05:41:19.589Z] ""GET /beats HTTP/1.1"" 200 5067 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/brewster-shaw,/beats,200,https://www.elastic.co/downloads/beats,"August 4th 2018, 05:41:19.589"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"8,100",184.0.152.233,,"{
+  ""lat"": 32.89376972,
+  ""lon"": -81.96511583
+}",SA,VE,VE:SA,5,184.0.152.233,win xp,"2,147,483,648","324,000","184.0.152.233 - - [2018-08-04T05:36:43.174Z] ""GET /people/type:astronauts/name:virgil-i-gus-grissom/profile HTTP/1.1"" 200 8100 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""","324,000",http://www.elastic-elastic-elastic.com/success/timothy-peake,/people/type:astronauts/name:virgil-i-gus-grissom/profile,200,https://elastic-elastic-elastic.org/people/type:astronauts/name:virgil-i-gus-grissom/profile,"August 4th 2018, 05:36:43.174"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"2,917",158.238.118.139,css,"{
+  ""lat"": 36.37920333,
+  ""lon"": -97.79111222
+}",IN,US,US:IN,5,158.238.118.139,win 8,"18,253,611,008",,"158.238.118.139 - - [2018-08-04T05:32:22.248Z] ""GET /styles/main.css HTTP/1.1"" 200 2917 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/donald-holmquest,/styles/main.css,200,https://cdn.elastic-elastic-elastic.org/styles/main.css,"August 4th 2018, 05:32:22.248"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"1,518",8.106.16.196,gz,"{
+  ""lat"": 45.5709275,
+  ""lon"": -84.796715
+}",DZ,TZ,TZ:DZ,5,8.106.16.196,osx,"21,474,836,480",,"8.106.16.196 - - [2018-08-04T05:13:46.417Z] ""GET /beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz HTTP/1.1"" 200 1518 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://www.elastic-elastic-elastic.com/success/lawrence-j-delucas,/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,200,https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,"August 4th 2018, 05:13:46.417"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"5,955",196.183.83.67,css,"{
+  ""lat"": 58.42438139,
+  ""lon"": -135.7073814
+}",KR,MX,MX:KR,5,196.183.83.67,win 7,"13,958,643,712",,"196.183.83.67 - - [2018-08-04T05:04:49.129Z] ""GET /styles/pretty-layout.css HTTP/1.1"" 404 5955 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://facebook.com/warning/michael-foale,/styles/pretty-layout.css,404,https://cdn.elastic-elastic-elastic.org/styles/pretty-layout.css,"August 4th 2018, 05:04:49.129"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","4,058",197.186.165.111,,"{
+  ""lat"": 26.22850611,
+  ""lon"": -97.65439389
+}",ET,CG,CG:ET,5,197.186.165.111,win 8,"21,474,836,480",,"197.186.165.111 - - [2018-08-04T05:01:17.530Z] ""GET / HTTP/1.1"" 200 4058 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/success/terry-hart,/,200,https://www.elastic.co/downloads,"August 4th 2018, 05:01:17.530"
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),"8,047",150.172.162.146,,"{
+  ""lat"": 35.69870944,
+  ""lon"": -85.84381722
+}",MY,CN,CN:MY,4,150.172.162.146,win 7,"9,663,676,416",,"150.172.162.146 - - [2018-08-04T04:56:19.551Z] ""GET / HTTP/1.1"" 200 8047 ""-"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)""",,http://twitter.com/success/byron-lichtenberg,/,200,https://www.elastic.co/downloads,"August 4th 2018, 04:56:19.551"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"4,352",92.229.41.206,,"{
+  ""lat"": 30.57194444,
+  ""lon"": -97.44316667
+}",CN,RU,RU:CN,1,92.229.41.206,osx,"32,212,254,720",,"92.229.41.206 - - [2018-08-04T01:15:02.127Z] ""GET /beats HTTP/1.1"" 200 4352 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/charles-camarda,/beats,200,https://www.elastic.co/downloads/beats,"August 4th 2018, 01:15:02.127"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","4,619",155.206.194.40,gz,"{
+  ""lat"": 39.916995,
+  ""lon"": -76.87302611
+}",CN,CN,CN:CN,1,155.206.194.40,osx,"18,253,611,008",,"155.206.194.40 - - [2018-08-04T01:00:52.596Z] ""GET /elasticsearch/elasticsearch-6.3.2.tar.gz HTTP/1.1"" 200 4619 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/error/john-lounge,/elasticsearch/elasticsearch-6.3.2.tar.gz,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.tar.gz,"August 4th 2018, 01:00:52.596"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","8,780",132.186.182.124,,"{
+  ""lat"": 57.04713806,
+  ""lon"": -135.3615983
+}",IN,CN,CN:IN,0,132.186.182.124,ios,"19,327,352,832","351,200","132.186.182.124 - - [2018-08-04T00:17:33.769Z] ""GET /people/type:astronauts/name:william-s-mcarthur/profile HTTP/1.1"" 404 8780 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""","351,200",http://www.elastic-elastic-elastic.com/success/daniel-brandenstein,/people/type:astronauts/name:william-s-mcarthur/profile,404,https://elastic-elastic-elastic.org/people/type:astronauts/name:william-s-mcarthur/profile,"August 4th 2018, 00:17:33.769"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","7,443",160.20.100.193,,"{
+  ""lat"": 61.17432028,
+  ""lon"": -149.9961856
+}",RU,UA,UA:RU,21,160.20.100.193,win 8,"13,958,643,712",,"160.20.100.193 - - [2018-08-03T21:15:19.548Z] ""GET /beats/filebeat HTTP/1.1"" 200 7443 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/michael-fincke,/beats/filebeat,200,https://www.elastic.co/downloads/beats/filebeat,"August 3rd 2018, 21:15:19.548"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,269,243.233.91.124,,"{
+  ""lat"": 39.77194444,
+  ""lon"": -94.90970556
+}",KE,IN,IN:KE,20,243.233.91.124,osx,"5,368,709,120",,"243.233.91.124 - - [2018-08-03T20:18:45.660Z] ""GET /business-analytics HTTP/1.1"" 200 269 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/vladimir-aksyonov,/business-analytics,200,https://www.elastic.co/solutions/business-analytics,"August 3rd 2018, 20:18:45.660"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","2,038",26.79.15.179,gz,"{
+  ""lat"": 36.01822278,
+  ""lon"": -75.67128694
+}",VN,CN,CN:VN,19,26.79.15.179,win 7,"21,474,836,480",,"26.79.15.179 - - [2018-08-03T19:24:52.570Z] ""GET /beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz HTTP/1.1"" 200 2038 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://nytimes.com/success/kathryn-sullivan,/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,200,https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,"August 3rd 2018, 19:24:52.570"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","4,538",9.92.255.88,css,"{
+  ""lat"": 44.9344725,
+  ""lon"": -93.05999861
+}",NG,CN,CN:NG,18,9.92.255.88,win 8,"7,516,192,768",,"9.92.255.88 - - [2018-08-03T18:58:21.796Z] ""GET /styles/ads.css HTTP/1.1"" 200 4538 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://facebook.com/success/leonid-kadenyuk,/styles/ads.css,200,https://cdn.elastic-elastic-elastic.org/styles/ads.css,"August 3rd 2018, 18:58:21.796"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"1,974",112.106.69.227,gz,"{
+  ""lat"": 30.62646944,
+  ""lon"": -88.06799861
+}",IN,CN,CN:IN,18,112.106.69.227,win xp,"4,294,967,296",,"112.106.69.227 - - [2018-08-03T18:24:19.271Z] ""GET /beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz HTTP/1.1"" 200 1974 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://twitter.com/success/wang-yaping,/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,200,https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,"August 3rd 2018, 18:24:19.271"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","6,879",88.26.38.241,,"{
+  ""lat"": 57.95517222,
+  ""lon"": -136.2362733
+}",IN,CN,CN:IN,18,88.26.38.241,osx,"2,147,483,648",,"88.26.38.241 - - [2018-08-03T18:08:00.775Z] ""GET / HTTP/1.1"" 200 6879 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/scott-parazynski,/,200,https://www.elastic.co/downloads,"August 3rd 2018, 18:08:00.775"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,0,23.172.49.99,gz,"{
+  ""lat"": 40.49291944,
+  ""lon"": -123.5997589
+}",ID,PL,PL:ID,17,23.172.49.99,win 7,"5,368,709,120",,"23.172.49.99 - - [2018-08-03T17:55:30.824Z] ""GET /kibana/kibana-6.3.2-darwin-x86_64.tar.gz HTTP/1.1"" 503 0 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/error/john-herrington,/kibana/kibana-6.3.2-darwin-x86_64.tar.gz,503,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-darwin-x86_64.tar.gz,"August 3rd 2018, 17:55:30.824"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"5,356",192.198.214.108,gz,"{
+  ""lat"": 59.87644778,
+  ""lon"": -163.1675583
+}",KH,IN,IN:KH,17,192.198.214.108,osx,"6,442,450,944",,"192.198.214.108 - - [2018-08-03T17:49:49.339Z] ""GET /beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz HTTP/1.1"" 200 5356 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://nytimes.com/success/charles-bolden,/beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-6.3.2-linux-x86_64.tar.gz,"August 3rd 2018, 17:49:49.339"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,565,157.66.46.99,,"{
+  ""lat"": 46.01649694,
+  ""lon"": -123.9054167
+}",NP,CN,CN:NP,17,157.66.46.99,ios,"8,589,934,592",,"157.66.46.99 - - [2018-08-03T17:32:16.404Z] ""GET /business-analytics HTTP/1.1"" 200 565 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://nytimes.com/success/sonny-carter,/business-analytics,200,https://www.elastic.co/solutions/business-analytics,"August 3rd 2018, 17:32:16.404"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,164,112.82.236.207,,"{
+  ""lat"": 40.95957778,
+  ""lon"": -72.25185056
+}",CN,CN,CN:CN,17,112.82.236.207,osx,"2,147,483,648",,"112.82.236.207 - - [2018-08-03T17:31:41.739Z] ""GET /security-analytics HTTP/1.1"" 200 164 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://nytimes.com/error/christer-fuglesang,/security-analytics,200,https://www.elastic.co/solutions/security-analytics,"August 3rd 2018, 17:31:41.739"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","4,552",175.215.242.183,,"{
+  ""lat"": 42.56072611,
+  ""lon"": -73.83395639
+}",US,CN,CN:US,17,175.215.242.183,win 8,"5,368,709,120",,"175.215.242.183 - - [2018-08-03T17:24:43.113Z] ""GET /elasticsearch HTTP/1.1"" 200 4552 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/james-p-bagian,/elasticsearch,200,https://www.elastic.co/downloads/elasticsearch,"August 3rd 2018, 17:24:43.113"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","4,685",179.153.116.46,zip,"{
+  ""lat"": 40.86525806,
+  ""lon"": -97.10931306
+}",IT,IN,IN:IT,17,179.153.116.46,ios,"4,294,967,296",,"179.153.116.46 - - [2018-08-03T17:11:18.968Z] ""GET /elasticsearch/elasticsearch-6.3.2.zip HTTP/1.1"" 200 4685 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://twitter.com/success/anthony-w-england,/elasticsearch/elasticsearch-6.3.2.zip,200,https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.3.2.zip,"August 3rd 2018, 17:11:18.968"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"3,119",247.50.93.227,gz,"{
+  ""lat"": 36.77394444,
+  ""lon"": -90.32484722
+}",US,IN,IN:US,17,247.50.93.227,osx,"9,663,676,416",,"247.50.93.227 - - [2018-08-03T17:08:38.706Z] ""GET /kibana/kibana-6.3.2-linux-x86_64.tar.gz HTTP/1.1"" 200 3119 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/daniel-barry,/kibana/kibana-6.3.2-linux-x86_64.tar.gz,200,https://artifacts.elastic.co/downloads/kibana/kibana-6.3.2-linux-x86_64.tar.gz,"August 3rd 2018, 17:08:38.706"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","9,860",251.250.144.158,gz,"{
+  ""lat"": 39.72870694,
+  ""lon"": -92.464455
+}",IT,IN,IN:IT,17,251.250.144.158,ios,"6,442,450,944",,"251.250.144.158 - - [2018-08-03T17:01:11.333Z] ""GET /beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz HTTP/1.1"" 200 9860 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/success/umberto-guidoni,/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,200,https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-6.3.2-linux-x86.tar.gz,"August 3rd 2018, 17:01:11.333"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","7,616",231.185.3.235,,"{
+  ""lat"": 61.965295,
+  ""lon"": -151.1913661
+}",IN,BO,BO:IN,16,231.185.3.235,osx,"13,958,643,712",,"231.185.3.235 - - [2018-08-03T16:54:58.604Z] ""GET /beats/filebeat HTTP/1.1"" 200 7616 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://facebook.com/success/edward-gibson,/beats/filebeat,200,https://www.elastic.co/downloads/beats/filebeat,"August 3rd 2018, 16:54:58.604"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,0,107.238.94.231,,"{
+  ""lat"": 37.63355556,
+  ""lon"": -85.24216667
+}",BR,CN,CN:BR,16,107.238.94.231,osx,"9,663,676,416",,"107.238.94.231 - - [2018-08-03T16:52:30.202Z] ""GET /elasticsearch HTTP/1.1"" 503 0 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://nytimes.com/success/liu-wang,/elasticsearch,503,https://www.elastic.co/downloads/elasticsearch,"August 3rd 2018, 16:52:30.202"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","7,755",85.130.95.75,css,"{
+  ""lat"": 26.68316194,
+  ""lon"": -80.09559417
+}",CD,US,US:CD,16,85.130.95.75,win 8,"18,253,611,008",,"85.130.95.75 - - [2018-08-03T16:36:29.881Z] ""GET /styles/ad-blocker.css HTTP/1.1"" 200 7755 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://www.elastic-elastic-elastic.com/warning/gregory-h-johnson,/styles/ad-blocker.css,200,https://cdn.elastic-elastic-elastic.org/styles/ad-blocker.css,"August 3rd 2018, 16:36:29.881"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","3,354",111.58.155.54,,"{
+  ""lat"": 31.99071694,
+  ""lon"": -93.30739306
+}",CN,CN,CN:CN,16,111.58.155.54,win 8,"9,663,676,416",,"111.58.155.54 - - [2018-08-03T16:26:12.645Z] ""GET / HTTP/1.1"" 200 3354 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://nytimes.com/success/ronald-grabe,/,200,https://www.elastic.co/downloads,"August 3rd 2018, 16:26:12.645"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,0,6.63.231.192,,"{
+  ""lat"": 40.12916667,
+  ""lon"": -91.67833333
+}",IN,BR,BR:IN,16,6.63.231.192,osx,"21,474,836,480",,"6.63.231.192 - - [2018-08-03T16:24:33.154Z] ""GET /enterprise HTTP/1.1"" 503 0 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://nytimes.com/warning/yelena-kondakova,/enterprise,503,https://www.elastic.co/downloads/enterprise,"August 3rd 2018, 16:24:33.154"
+"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24","7,330",26.150.255.63,,"{
+  ""lat"": 34.80997222,
+  ""lon"": -82.70288889
+}",FR,US,US:FR,16,26.150.255.63,ios,"17,179,869,184",,"26.150.255.63 - - [2018-08-03T16:20:52.802Z] ""GET /elasticsearch HTTP/1.1"" 200 7330 ""-"" ""Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.50 Safari/534.24""",,http://facebook.com/error/charles-fullerton,/elasticsearch,200,https://www.elastic.co/downloads/elasticsearch,"August 3rd 2018, 16:20:52.802"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"9,950",245.169.167.67,,"{
+  ""lat"": 38.80416667,
+  ""lon"": -76.069
+}",RW,PK,PK:RW,16,245.169.167.67,osx,"18,253,611,008",,"245.169.167.67 - - [2018-08-03T16:20:11.988Z] ""GET /elasticsearch HTTP/1.1"" 200 9950 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/christopher-loria,/elasticsearch,200,https://www.elastic.co/downloads/elasticsearch,"August 3rd 2018, 16:20:11.988"
+Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1,"8,200",25.181.253.214,rpm,"{
+  ""lat"": 45.87791444,
+  ""lon"": -104.5375072
+}",IN,IN,IN:IN,16,25.181.253.214,win xp,"13,958,643,712",,"25.181.253.214 - - [2018-08-03T16:17:39.915Z] ""GET /beats/metricbeat/metricbeat-6.3.2-i686.rpm HTTP/1.1"" 200 8200 ""-"" ""Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1""",,http://www.elastic-elastic-elastic.com/success/sergei-zalyotin,/beats/metricbeat/metricbeat-6.3.2-i686.rpm,200,https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-i686.rpm,"August 3rd 2018, 16:17:39.915"
